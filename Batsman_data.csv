@@ -1,0 +1,1118 @@
+﻿OUT_OF_74,INDEX1,MATCH,TEAM,BatsMan,How_out,Fielder,Bowler,Runs,Balls,Fours,Sixers,OUT_NTOUT
+1,1,CSK_RCB_1,RCB,Virat Kohli,Ct,Rachin R,Mustafizur R,21,20,0,1,1
+1,2,CSK_RCB_1,RCB,Faf Du Plessis,Ct,Rachin R,Mustafizur R,35,23,8,0,1
+1,3,CSK_RCB_1,RCB,Rajat Patidar,Ctw,M S D,Mustafizur R,0,3,0,0,1
+1,4,CSK_RCB_1,RCB,Glenn Maxwell,Ctw,M S D,Deepak C,0,1,0,0,1
+1,5,CSK_RCB_1,RCB,Cameron Green,B,,Mustafizur R,18,22,1,0,1
+1,6,CSK_RCB_1,RCB,Anuj Rawat,Ro,M S D,,48,25,4,3,1
+1,7,CSK_RCB_1,RCB,Dinesh Karthik,,,,38,26,3,2,0
+1,8,CSK_RCB_1,CSK,Ruturaj Gaikwad,Ct,Cameron G,Yash D,15,15,3,0,1
+1,9,CSK_RCB_1,CSK,Rachin Ravindra,Ct,Rajat P,Karn S,37,15,3,3,1
+1,10,CSK_RCB_1,CSK,Ajinkya Rahane,Ct,Glenn M,Cameron G,27,19,0,2,1
+1,11,CSK_RCB_1,CSK,Daryl Mitchell,Ct,Rajat P,Cameron G,22,18,0,2,1
+1,12,CSK_RCB_1,CSK,Shivam Dube,,,,34,28,4,1,0
+1,13,CSK_RCB_1,CSK,Ravindra Jadeja,,,,25,17,0,1,0
+2,14,DC_PBKS_2,DC,David Warner,Ctw,Jitesh S,Harshal P,29,21,3,2,1
+2,15,DC_PBKS_2,DC,Mitchell Marsh,Ct,Rahul C,Arshdeep S,20,12,2,2,1
+2,16,DC_PBKS_2,DC,Shai Hope,Ct,Harpreet B,Kagiso R,33,25,2,2,1
+2,17,DC_PBKS_2,DC,Rishabh Pant,Ct,Jonny B,Harshal P,18,13,2,0,1
+2,18,DC_PBKS_2,DC,Ricky Bhui,Ctw,Jitesh S,Harpreet B,3,7,0,0,1
+2,19,DC_PBKS_2,DC,Tristan Stubbs,Ct,Shashank S,Rahul C,5,8,0,0,1
+2,20,DC_PBKS_2,DC,Axar Patel,Ro,Jitesh S,Substitute,21,13,2,1,1
+2,21,DC_PBKS_2,DC,Sumit Kumar,Ctw,Jitesh S,Arshdeep S,2,9,0,0,1
+2,22,DC_PBKS_2,DC,Abishek Porel,,,,32,10,4,2,0
+2,23,DC_PBKS_2,DC,Kuldeep Yadav,Ro,Harshal P,Shashank S,1,2,0,0,1
+2,24,DC_PBKS_2,PBKS,Shikhar Dhawan,B,,Ishant S,22,16,4,0,1
+2,25,DC_PBKS_2,PBKS,Jonny Bairstow,Ro,,Ishant S,9,3,2,0,1
+2,26,DC_PBKS_2,PBKS,Prabhsimran Singh,Ct,David W,Kuldeep Y,26,17,5,0,1
+2,27,DC_PBKS_2,PBKS,Sam Curran,B,,Khaleel A,63,47,6,1,1
+2,28,DC_PBKS_2,PBKS,Jitesh Sharma,St,Rishabh P,Kuldeep Y,9,9,1,0,1
+2,29,DC_PBKS_2,PBKS,Liam Livingstone,,,,38,21,2,3,0
+2,30,DC_PBKS_2,PBKS,Shashank Singh,Ctw,Rishabh P,Khaleel A,0,1,0,0,1
+2,31,DC_PBKS_2,PBKS,Harpreet Brar,,,,2,2,0,0,0
+3,32,KKR_SRH_3,KKR,Philip Salt,Ct,Marco J,Mayank M,54,40,3,3,1
+3,33,KKR_SRH_3,KKR,Sunil Narine,Ro,,Shahbaz A,2,4,0,0,1
+3,34,KKR_SRH_3,KKR,Venkatesh Iyer,Ct,Marco J,T N,7,5,1,0,1
+3,35,KKR_SRH_3,KKR,Shreyas Iyer,Ct,Pat C,T N,0,2,0,0,1
+3,36,KKR_SRH_3,KKR,Nitish Rana,Ct,Rahul T,Mayank M,9,11,1,0,1
+3,37,KKR_SRH_3,KKR,Ramandeep Singh,Ct,Mayank M,Pat C,35,17,1,4,1
+3,38,KKR_SRH_3,KKR,Rinku Singh,Ct,Aiden M,T N,23,15,3,0,1
+3,39,KKR_SRH_3,KKR,Andre Russell,,,,64,25,3,7,0
+3,40,KKR_SRH_3,KKR,Mitchell Starc,,,,6,3,1,0,0
+3,41,KKR_SRH_3,SRH,Mayank Agarwal,Ct,Rinku S,Harshit R,32,21,4,1,1
+3,42,KKR_SRH_3,SRH,Abhishek Sharma,Ct,Varun C,Andre R,32,19,4,2,1
+3,43,KKR_SRH_3,SRH,Rahul Tripathi,Ct,Harshit R,Sunil N,20,20,0,1,1
+3,44,KKR_SRH_3,SRH,Aiden Markram,Ct,Rinku S,Varun C,18,13,2,0,1
+3,45,KKR_SRH_3,SRH,Heinrich Klaasen,Ct,Suyash S,Harshit R,63,29,0,8,1
+3,46,KKR_SRH_3,SRH,Abdul Samad,Ct,Venkatesh I,Andre R,15,11,1,1,1
+3,47,KKR_SRH_3,SRH,Shahbaz Ahmed,Ct,Shreyas I,Harshit R,16,5,1,2,1
+3,48,KKR_SRH_3,SRH,Marco Jansen,,,,1,1,0,0,0
+3,49,KKR_SRH_3,SRH,Pat Cummins,,,,0,1,0,0,0
+4,50,LSG_RR_4,RR,Yashasvi Jaiswal,Ct,Krunal P,Mohsin K,24,12,3,1,1
+4,51,LSG_RR_4,RR,Jos Buttler,Ctw,K L R,Naveen U,11,9,2,0,1
+4,52,LSG_RR_4,RR,Sanju Samson,,,,82,52,3,6,0
+4,53,LSG_RR_4,RR,Riyan Parag,Ct,Deepak H,Naveen U,43,29,1,3,1
+4,54,LSG_RR_4,RR,Shimron Hetmyer,Ctw,K L R,Ravi B,5,7,0,0,1
+4,55,LSG_RR_4,RR,Dhruv Jurel,,,,20,12,1,1,0
+4,56,LSG_RR_4,LSG,Quinton De Kock,Ct,Nandre B,Trent B,4,5,1,0,1
+4,57,LSG_RR_4,LSG,K L Rahul,Ct,Dhruv J,Sandeep S,58,44,4,2,1
+4,58,LSG_RR_4,LSG,Devdutt Padikkal,B,,Trent B,0,3,0,0,1
+4,59,LSG_RR_4,LSG,Ayush Badoni,Ct,Jos B,Nandre B,1,5,0,0,1
+4,60,LSG_RR_4,LSG,Deepak Hooda,Ct,Dhruv J,Yuzvendra C,26,13,2,2,1
+4,61,LSG_RR_4,LSG,Nicholas Pooran,,,,64,41,4,4,0
+4,62,LSG_RR_4,LSG,Marcus Stoinis,Ct,Dhruv J,Ravichandran A,3,4,0,0,1
+4,63,LSG_RR_4,LSG,Krunal Pandya,,,,3,5,0,0,0
+5,64,GT_MI_5,GT,Shubman Gill,Ct,Rohit S,Piyush C,31,22,3,1,1
+5,65,GT_MI_5,GT,Wriddhiman Saha,B,,Jasprit B,19,15,4,0,1
+5,66,GT_MI_5,GT,Sai Sudharsan,Ct,Tilak V,Jasprit B,45,39,3,1,1
+5,67,GT_MI_5,GT,Azmatullah Omarzai,Ct,Tilak V,Gerald C,17,11,1,1,1
+5,68,GT_MI_5,GT,David Miller,Ct,Hardik P,Jasprit B,12,11,1,0,1
+5,69,GT_MI_5,GT,Vijay Shankar,,,,6,5,0,0,0
+5,70,GT_MI_5,GT,Rahul Tewatia,Ct,Naman D,Gerald C,22,15,2,1,1
+5,71,GT_MI_5,GT,Rashid Khan,,,,4,3,0,0,0
+5,72,GT_MI_5,MI,Rohit Sharma,Lbw,,Ravisrinivasan  Sai K,43,29,7,1,1
+5,73,GT_MI_5,MI,Ishan Kishan,Ctw,Wriddhiman S,Azmatullah O,0,4,0,0,1
+5,74,GT_MI_5,MI,Naman Dhir,Lbw,,Azmatullah O,20,10,3,1,1
+5,75,GT_MI_5,MI,Dewald Brevis,Ct,Mohit S,Mohit S,46,38,2,3,1
+5,76,GT_MI_5,MI,Tilak Varma,Ct,Substitute,Spencer J,25,19,1,1,1
+5,77,GT_MI_5,MI,Tim David,Ct,David M,Mohit S,11,10,1,0,1
+5,78,GT_MI_5,MI,Hardik Pandya,Ct,Rahul T,Umesh Y,11,4,1,1,1
+5,79,GT_MI_5,MI,Gerald Coetzee,Ct,Spencer J,Spencer J,1,3,0,0,1
+5,80,GT_MI_5,MI,Shams Mulani,,,,1,1,0,0,0
+5,81,GT_MI_5,MI,Piyush Chawla,Ct,Rashid K,Umesh Y,0,1,0,0,1
+5,82,GT_MI_5,MI,Jasprit Bumrah,,,,1,1,0,0,0
+6,83,PBKS_RCB_6,PBKS,Shikhar Dhawan,Ct,Virat K,Glenn M,45,37,5,1,1
+6,84,PBKS_RCB_6,PBKS,Jonny Bairstow,Ct,Virat K,Mohammed S,8,6,2,0,1
+6,85,PBKS_RCB_6,PBKS,Prabhsimran Singh,Ctw,Anuj R,Glenn M,25,17,2,2,1
+6,86,PBKS_RCB_6,PBKS,Liam Livingstone,Ctw,Anuj R,Alzarri J,17,13,1,1,1
+6,87,PBKS_RCB_6,PBKS,Sam Curran,Ctw,Anuj R,Yash D,23,17,3,0,1
+6,88,PBKS_RCB_6,PBKS,Jitesh Sharma,Ctw,Anuj R,Mohammed S,27,20,1,2,1
+6,89,PBKS_RCB_6,PBKS,Shashank Singh,,,,21,8,1,2,0
+6,90,PBKS_RCB_6,PBKS,Harpreet Brar,,,,2,2,0,0,0
+6,91,PBKS_RCB_6,RCB,Virat Kohli,Ct,Harpreet B,Harshal P,77,49,11,2,1
+6,92,PBKS_RCB_6,RCB,Faf Du Plessis,Ct,Sam C,Kagiso R,3,7,0,0,1
+6,93,PBKS_RCB_6,RCB,Cameron Green,Ctw,Jitesh S,Kagiso R,3,5,0,0,1
+6,94,PBKS_RCB_6,RCB,Rajat Patidar,B,,Harpreet B,18,18,1,1,1
+6,95,PBKS_RCB_6,RCB,Glenn Maxwell,B,,Harpreet B,3,5,0,0,1
+6,96,PBKS_RCB_6,RCB,Anuj Rawat,Lbw,,Sam C,11,14,1,0,1
+6,97,PBKS_RCB_6,RCB,Dinesh Karthik,,,,28,10,3,2,0
+6,98,PBKS_RCB_6,RCB,Mahipal Lomror,,,,17,8,2,1,0
+7,99,CSK_GT_7,CSK,Ruturaj Gaikwad,Ctw,Wriddhiman S,Spencer J,46,36,5,1,1
+7,100,CSK_GT_7,CSK,Rachin Ravindra,St,Wriddhiman S,Rashid K,46,20,6,3,1
+7,101,CSK_GT_7,CSK,Ajinkya Rahane,St,Wriddhiman S,Ravisrinivasan  Sai K,12,12,1,0,1
+7,102,CSK_GT_7,CSK,Shivam Dube,Ct,Vijay S,Rashid K,51,23,2,5,1
+7,103,CSK_GT_7,CSK,Daryl Mitchell,,,,24,20,2,0,0
+7,104,CSK_GT_7,CSK,Sameer Rizvi,Ct,David M,Mohit S,14,6,0,2,1
+7,105,CSK_GT_7,CSK,Ravindra Jadeja,Ro,Wriddhiman S,Vijay S,7,3,1,0,1
+7,106,CSK_GT_7,GT,Wriddhiman Saha,Ct,Tushar D,Deepak C,21,17,4,0,1
+7,107,CSK_GT_7,GT,Shubman Gill,Lbw,,Deepak C,8,5,0,1,1
+7,108,CSK_GT_7,GT,Sai Sudharsan,Ct,Sameer R,Matheesha P,37,31,3,0,1
+7,109,CSK_GT_7,GT,Vijay Shankar,Ctw,M S D,Daryl M,12,12,0,1,1
+7,110,CSK_GT_7,GT,David Miller,Ct,Ajinkya R,Tushar D,21,16,3,0,1
+7,111,CSK_GT_7,GT,Azmatullah Omarzai,Ct,Rachin R,Tushar D,11,10,1,0,1
+7,112,CSK_GT_7,GT,Rahul Tewatia,Ct,Rachin R,Mustafizur R,6,11,1,0,1
+7,113,CSK_GT_7,GT,Rashid Khan,Ct,Rachin R,Mustafizur R,1,2,0,0,1
+7,114,CSK_GT_7,GT,Umesh Yadav,,,,10,11,0,1,0
+7,115,CSK_GT_7,GT,Spencer Johnson,,,,5,5,1,0,0
+8,116,MI_SRH_8,SRH,Mayank Agarwal,Ct,Tim D,Hardik P,11,13,1,0,1
+8,117,MI_SRH_8,SRH,Travis Head,Ct,Naman D,Gerald C,62,24,9,3,1
+8,118,MI_SRH_8,SRH,Abhishek Sharma,Ct,Naman D,Piyush C,63,23,3,7,1
+8,119,MI_SRH_8,SRH,Aiden Markram,,,,42,28,2,1,0
+8,120,MI_SRH_8,SRH,Heinrich Klaasen,,,,80,34,4,7,0
+8,121,MI_SRH_8,MI,Rohit Sharma,Ct,Abhishek S,Pat C,26,12,1,3,1
+8,122,MI_SRH_8,MI,Ishan Kishan,Ct,Aiden M,Shahbaz A,34,13,2,4,1
+8,123,MI_SRH_8,MI,Naman Dhir,Ct,Pat C,Jaydev U,30,14,2,2,1
+8,124,MI_SRH_8,MI,Tilak Varma,Ct,Mayank A,Pat C,64,34,2,6,1
+8,125,MI_SRH_8,MI,Hardik Pandya,Ctw,Heinrich K,Jaydev U,24,20,1,1,1
+8,126,MI_SRH_8,MI,Tim David,,,,42,22,2,3,0
+8,127,MI_SRH_8,MI,Romario Shepherd,,,,15,6,2,1,0
+9,128,DC_RR_9,RR,Yashasvi Jaiswal,B,,Mukesh K,5,7,1,0,1
+9,129,DC_RR_9,RR,Jos Buttler,Lbw,,Kuldeep Y,11,16,0,0,1
+9,130,DC_RR_9,RR,Sanju Samson,Ctw,Rishabh P,Khaleel A,15,14,3,0,1
+9,131,DC_RR_9,RR,Riyan Parag,,,,84,45,7,6,0
+9,132,DC_RR_9,RR,Ravichandran Ashwin,Ct,Tristan S,Axar P,29,19,0,3,1
+9,133,DC_RR_9,RR,Dhruv Jurel,B,,Anrich N,20,12,3,0,1
+9,134,DC_RR_9,RR,Shimron Hetmyer,,,,14,7,1,1,0
+9,135,DC_RR_9,DC,David Warner,Ct,Sandeep S,Avesh K,49,34,5,3,1
+9,136,DC_RR_9,DC,Mitchell Marsh,B,,Nandre B,23,12,5,0,1
+9,137,DC_RR_9,DC,Ricky Bhui,Ctw,Sanju S,Nandre B,0,2,0,0,1
+9,138,DC_RR_9,DC,Rishabh Pant,Ctw,Sanju S,Yuzvendra C,28,26,2,1,1
+9,139,DC_RR_9,DC,Tristan Stubbs,,,,44,23,2,3,0
+9,140,DC_RR_9,DC,Abishek Porel,Ct,Jos B,Yuzvendra C,9,10,0,0,1
+9,141,DC_RR_9,DC,Axar Patel,,,,15,13,1,0,0
+10,142,KKR_RCB_10,RCB,Virat Kohli,,,,83,59,4,4,0
+10,143,KKR_RCB_10,RCB,Faf Du Plessis,Ct,Mitchell S,Harshit R,8,6,0,1,1
+10,144,KKR_RCB_10,RCB,Cameron Green,B,,Andre R,33,21,4,2,1
+10,145,KKR_RCB_10,RCB,Glenn Maxwell,Ct,Rinku S,Sunil N,28,19,3,1,1
+10,146,KKR_RCB_10,RCB,Rajat Patidar,Ct,Rinku S,Andre R,3,4,0,0,1
+10,147,KKR_RCB_10,RCB,Anuj Rawat,Ctw,Philip S,Harshit R,3,3,0,0,1
+10,148,KKR_RCB_10,RCB,Dinesh Karthik,Ro,,Philip S,20,8,0,3,1
+10,149,KKR_RCB_10,KKR,Philip Salt,Ct,Cameron G,Vijaykumar V,30,20,2,2,1
+10,150,KKR_RCB_10,KKR,Sunil Narine,B,,Mayank D,47,22,2,5,1
+10,151,KKR_RCB_10,KKR,Venkatesh Iyer,Ct,Virat K,Yash D,50,30,3,4,1
+10,152,KKR_RCB_10,KKR,Shreyas Iyer,,,,39,24,2,2,0
+10,153,KKR_RCB_10,KKR,Rinku Singh,,,,5,5,0,0,0
+11,154,LSG_PBKS_11,LSG,Quinton De Kock,Ctw,Jitesh S,Arshdeep S,54,38,5,2,1
+11,155,LSG_PBKS_11,LSG,K L Rahul,Ct,Jonny B,Arshdeep S,15,9,1,1,1
+11,156,LSG_PBKS_11,LSG,Devdutt Padikkal,Ct,Shikhar D,Sam C,9,6,2,0,1
+11,157,LSG_PBKS_11,LSG,Marcus Stoinis,B,,Rahul C,19,12,0,2,1
+11,158,LSG_PBKS_11,LSG,Nicholas Pooran,B,,Kagiso R,42,21,3,3,1
+11,159,LSG_PBKS_11,LSG,Ayush Badoni,Ct,Jonny B,Sam C,8,10,0,0,1
+11,160,LSG_PBKS_11,LSG,Krunal Pandya,,,,43,22,4,2,0
+11,161,LSG_PBKS_11,LSG,Ravi Bishnoi,Ct,Substitute,Sam C,0,1,0,0,1
+11,162,LSG_PBKS_11,LSG,Mohsin Khan,Ro,,Harshal P,2,1,0,0,1
+11,163,LSG_PBKS_11,PBKS,Shikhar Dhawan,Ctw,Quinton D,Mohsin K,70,50,7,3,1
+11,164,LSG_PBKS_11,PBKS,Jonny Bairstow,Ct,Marcus S,Mayank Y,42,29,3,3,1
+11,165,LSG_PBKS_11,PBKS,Prabhsimran Singh,Ct,Naveen U,Mayank Y,19,7,1,2,1
+11,166,LSG_PBKS_11,PBKS,Jitesh Sharma,Ct,Naveen U,Mayank Y,6,9,1,0,1
+11,167,LSG_PBKS_11,PBKS,Liam Livingstone,,,,28,17,2,2,0
+11,168,LSG_PBKS_11,PBKS,Sam Curran,Ct,Nicholas P,Mohsin K,0,1,0,0,1
+11,169,LSG_PBKS_11,PBKS,Shashank Singh,,,,9,7,1,0,0
+12,170,GT_SRH_12,SRH,Mayank Agarwal,Ct,Darshan N,Azmatullah O,16,17,2,0,1
+12,171,GT_SRH_12,SRH,Travis Head,B,,Noor A,19,14,3,0,1
+12,172,GT_SRH_12,SRH,Abhishek Sharma,Ct,Shubman G,Mohit S,29,20,2,2,1
+12,173,GT_SRH_12,SRH,Aiden Markram,Ct,Rashid K,Umesh Y,17,19,0,0,1
+12,174,GT_SRH_12,SRH,Heinrich Klaasen,B,,Rashid K,24,13,1,2,1
+12,175,GT_SRH_12,SRH,Shahbaz Ahmed,Ct,Rahul T,Mohit S,22,20,1,1,1
+12,176,GT_SRH_12,SRH,Abdul Samad,Ro,Wriddhiman S,Noor A,29,14,3,1,1
+12,177,GT_SRH_12,SRH,Washington Sunder,Ct,Rashid K,Mohit S,0,1,0,0,1
+12,178,GT_SRH_12,SRH,Pat Cummins,,,,2,2,0,0,0
+12,179,GT_SRH_12,GT,Wriddhiman Saha,Ct,Pat C,Shahbaz A,25,13,1,2,1
+12,180,GT_SRH_12,GT,Shubman Gill,Ct,Abdul S,Mayank M,36,28,2,1,1
+12,181,GT_SRH_12,GT,Sai Sudharsan,Ct,Abhishek S,Pat C,45,36,4,1,1
+12,182,GT_SRH_12,GT,David Miller,,,,44,27,4,2,0
+12,183,GT_SRH_12,GT,Vijay Shankar,,,,14,11,2,0,0
+13,184,CSK_DC_13,DC,Prithvi Shaw,Ctw,M S D,Ravindra J,43,27,4,2,1
+13,185,CSK_DC_13,DC,David Warner,Ct,Matheesha P,Mustafizur R,52,35,5,3,1
+13,186,CSK_DC_13,DC,Rishabh Pant,Ct,Ruturaj G,Matheesha P,51,32,4,3,1
+13,187,CSK_DC_13,DC,Mitchell Marsh,B,,Matheesha P,18,12,2,1,1
+13,188,CSK_DC_13,DC,Tristan Stubbs,B,,Matheesha P,0,2,0,0,1
+13,189,CSK_DC_13,DC,Axar Patel,,,,7,8,0,0,0
+13,190,CSK_DC_13,DC,Abishek Porel,,,,9,6,1,0,0
+13,191,CSK_DC_13,CSK,Ruturaj Gaikwad,Ctw,Rishabh P,Khaleel A,1,2,0,0,1
+13,192,CSK_DC_13,CSK,Rachin Ravindra,Ct,Tristan S,Khaleel A,2,12,0,0,1
+13,193,CSK_DC_13,CSK,Ajinkya Rahane,Ct,David W,Mukesh K,45,30,5,2,1
+13,194,CSK_DC_13,CSK,Daryl Mitchell,Ct,Axar P,Axar P,34,26,1,2,1
+13,195,CSK_DC_13,CSK,Shivam Dube,Ct,Tristan S,Mukesh K,18,17,1,0,1
+13,196,CSK_DC_13,CSK,Sameer Rizvi,Ct,Khaleel A,Mukesh K,0,1,0,0,1
+13,197,CSK_DC_13,CSK,Ravindra Jadeja,,,,21,17,2,0,0
+13,198,CSK_DC_13,CSK,M S Dhoni,,,,37,16,4,3,0
+14,199,MI_RR_14,MI,Ishan Kishan,Ctw,Sanju S,Nandre B,16,14,2,1,1
+14,200,MI_RR_14,MI,Rohit Sharma,Ctw,Sanju S,Trent B,0,1,0,0,1
+14,201,MI_RR_14,MI,Naman Dhir,Lbw,,Trent B,0,1,0,0,1
+14,202,MI_RR_14,MI,Dewald Brevis,Ct,Nandre B,Trent B,0,1,0,0,1
+14,203,MI_RR_14,MI,Tilak Varma,Ct,Ravichandran A,Yuzvendra C,32,29,0,2,1
+14,204,MI_RR_14,MI,Hardik Pandya,Ctw,Substitute,Yuzvendra C,34,21,6,0,1
+14,205,MI_RR_14,MI,Piyush Chawla,Ct,Shimron H,Avesh K,3,6,0,0,1
+14,206,MI_RR_14,MI,Tim David,Ct,Trent B,Nandre B,17,24,1,0,1
+14,207,MI_RR_14,MI,Gerald Coetzee,Ct,Shimron H,Yuzvendra C,4,9,0,0,1
+14,208,MI_RR_14,MI,Jasprit Bumrah,,,,8,9,1,0,0
+14,209,MI_RR_14,MI,Akash Madhwal,,,,4,5,0,0,0
+14,210,MI_RR_14,RR,Yashasvi Jaiswal,Ct,Tim D,Kwena M,10,6,2,0,1
+14,211,MI_RR_14,RR,Jos Buttler,Ct,Piyush C,Akash M,13,16,2,0,1
+14,212,MI_RR_14,RR,Sanju Samson,B,,Akash M,12,10,3,0,1
+14,213,MI_RR_14,RR,Riyan Parag,,,,54,39,5,3,0
+14,214,MI_RR_14,RR,Ravichandran Ashwin,Ct,Tilak V,Akash M,16,16,1,0,1
+14,215,MI_RR_14,RR,Shubham Dubey,,,,8,6,1,0,0
+15,216,LSG_RCB_15,LSG,Quinton De Kock,Ct,Mayank D,Reece T,81,56,8,5,1
+15,217,LSG_RCB_15,LSG,K L Rahul,Ct,Mayank D,Glenn M,20,14,0,2,1
+15,218,LSG_RCB_15,LSG,Devdutt Padikkal,Ctw,Anuj R,Mohammed S,6,11,0,0,1
+15,219,LSG_RCB_15,LSG,Marcus Stoinis,Ct,Mayank D,Glenn M,24,15,1,2,1
+15,220,LSG_RCB_15,LSG,Nicholas Pooran,,,,40,21,1,5,0
+15,221,LSG_RCB_15,LSG,Ayush Badoni,Ct,Faf D,Yash D,0,3,0,0,1
+15,222,LSG_RCB_15,RCB,Virat Kohli,Ct,Devdutt P,Manimaran S,22,16,2,1,1
+15,223,LSG_RCB_15,RCB,Faf Du Plessis,Ro,,Devdutt P,19,13,3,0,1
+15,224,LSG_RCB_15,RCB,Rajat Patidar,Ct,Devdutt P,Mayank Y,29,21,2,2,1
+15,225,LSG_RCB_15,RCB,Glenn Maxwell,Ct,Nicholas P,Mayank Y,0,2,0,0,1
+15,226,LSG_RCB_15,RCB,Cameron Green,B,,Mayank Y,9,9,1,0,1
+15,227,LSG_RCB_15,RCB,Anuj Rawat,Ct,Devdutt P,Marcus S,11,21,0,0,1
+15,228,LSG_RCB_15,RCB,Mahipal Lomror,Ct,Nicholas P,Yash T,33,13,3,3,1
+15,229,LSG_RCB_15,RCB,Dinesh Karthik,Ctw,K L R,Naveen U,4,8,0,0,1
+15,230,LSG_RCB_15,RCB,Mayank Dagar,Ro,,Nicholas P,0,1,0,0,1
+15,231,LSG_RCB_15,RCB,Reece Topley,,,,3,6,0,0,0
+15,232,LSG_RCB_15,RCB,Mohammed Siraj,Ct,Nicholas P,Naveen U,12,8,0,2,1
+16,233,DC_KKR_16,KKR,Philip Salt,Ct,Tristan S,Anrich N,18,12,4,0,1
+16,234,DC_KKR_16,KKR,Sunil Narine,Ctw,Rishabh P,Mitchell M,85,39,7,7,1
+16,235,DC_KKR_16,KKR,Angkrish Raghuvanshi,Ct,Ishant S,Anrich N,54,27,5,3,1
+16,236,DC_KKR_16,KKR,Andre Russell,B,,Ishant S,41,19,4,3,1
+16,237,DC_KKR_16,KKR,Shreyas Iyer,Ct,Tristan S,Khaleel A,18,11,0,2,1
+16,238,DC_KKR_16,KKR,Rinku Singh,Ct,David W,Anrich N,26,8,1,3,1
+16,239,DC_KKR_16,KKR,Venkatesh Iyer,,,,5,2,1,0,0
+16,240,DC_KKR_16,KKR,Ramandeep Singh,Ct,Prithvi S,Ishant S,2,2,0,0,1
+16,241,DC_KKR_16,KKR,Mitchell Starc,,,,1,1,0,0,0
+16,242,DC_KKR_16,DC,David Warner,B,,Mitchell S,18,13,2,1,1
+16,243,DC_KKR_16,DC,Prithvi Shaw,Ct,Varun C,Vaibhav A,10,7,2,0,1
+16,244,DC_KKR_16,DC,Mitchell Marsh,Ct,Ramandeep S,Mitchell S,0,2,0,0,1
+16,245,DC_KKR_16,DC,Abishek Porel,Ct,Sunil N,Vaibhav A,0,5,0,0,1
+16,246,DC_KKR_16,DC,Rishabh Pant,Ct,Shreyas I,Varun C,55,25,4,5,1
+16,247,DC_KKR_16,DC,Tristan Stubbs,Ct,Mitchell S,Varun C,54,32,4,4,1
+16,248,DC_KKR_16,DC,Axar Patel,Ct,Substitute,Varun C,0,1,0,0,1
+16,249,DC_KKR_16,DC,Sumit Kumar,Ct,Substitute,Sunil N,7,6,0,1,1
+16,250,DC_KKR_16,DC,Rasikh Dar,Ctw,Philip S,Vaibhav A,1,5,0,0,1
+16,251,DC_KKR_16,DC,Anrich Nortje,Ct,Shreyas I,Andre R,4,6,0,0,1
+16,252,DC_KKR_16,DC,Ishant Sharma,,,,1,3,0,0,0
+17,253,GT_PBKS_17,GT,Wriddhiman Saha,Ct,Shikhar D,Kagiso R,11,13,2,0,1
+17,254,GT_PBKS_17,GT,Shubman Gill,,,,89,48,6,4,0
+17,255,GT_PBKS_17,GT,Kane Williamson,Ct,Jonny B,Harpreet B,26,22,4,0,1
+17,256,GT_PBKS_17,GT,Sai Sudharsan,Ctw,Jitesh S,Harshal P,33,19,6,0,1
+17,257,GT_PBKS_17,GT,Vijay Shankar,Ct,Harpreet B,Kagiso R,8,10,0,0,1
+17,258,GT_PBKS_17,GT,Rahul Tewatia,,,,23,8,3,1,0
+17,259,GT_PBKS_17,PBKS,Shikhar Dhawan,B,,Umesh Y,1,2,0,0,1
+17,260,GT_PBKS_17,PBKS,Jonny Bairstow,B,,Noor A,22,13,4,0,1
+17,261,GT_PBKS_17,PBKS,Prabhsimran Singh,Ct,Mohit S,Noor A,35,24,5,1,1
+17,262,GT_PBKS_17,PBKS,Sam Curran,Ct,Kane W,Azmatullah O,5,8,0,0,1
+17,263,GT_PBKS_17,PBKS,Sikandar Raza,Ctw,Wriddhiman S,Mohit S,15,16,0,0,1
+17,264,GT_PBKS_17,PBKS,Shashank Singh,,,,61,29,6,4,0
+17,265,GT_PBKS_17,PBKS,Jitesh Sharma,Ct,Darshan N,Rashid K,16,8,0,2,1
+17,266,GT_PBKS_17,PBKS,Ashutosh Sharma,Ct,Rashid K,Darshan N,31,17,3,1,1
+17,267,GT_PBKS_17,PBKS,Harpreet Brar,,,,1,2,0,0,0
+18,268,CSK_SRH_18,CSK,Rachin Ravindra,Ct,Aiden M,Bhuvneshwar K,12,9,2,0,1
+18,269,CSK_SRH_18,CSK,Ruturaj Gaikwad,Ct,Abdul S,Shahbaz A,26,21,3,1,1
+18,270,CSK_SRH_18,CSK,Ajinkya Rahane,Ct,Mayank M,Jaydev U,35,30,2,1,1
+18,271,CSK_SRH_18,CSK,Shivam Dube,Ct,Bhuvneshwar K,Pat C,45,24,2,4,1
+18,272,CSK_SRH_18,CSK,Ravindra Jadeja,,,,31,23,4,0,0
+18,273,CSK_SRH_18,CSK,Daryl Mitchell,Ct,Abdul S,T N,13,11,1,0,1
+18,274,CSK_SRH_18,CSK,M S Dhoni,,,,1,2,0,0,0
+18,275,CSK_SRH_18,SRH,Travis Head,Ct,Rachin R,Maheesh T,31,24,3,1,1
+18,276,CSK_SRH_18,SRH,Abhishek Sharma,Ct,Ravindra J,Deepak C,37,12,3,4,1
+18,277,CSK_SRH_18,SRH,Aiden Markram,Lbw,,Moeen A,50,36,4,1,1
+18,278,CSK_SRH_18,SRH,Shahbaz Ahmed,Lbw,,Moeen A,18,19,0,1,1
+18,279,CSK_SRH_18,SRH,Heinrich Klaasen,,,,10,11,1,0,0
+18,280,CSK_SRH_18,SRH,Nitish Reddy,,,,14,8,1,1,0
+19,281,RCB_RR_19,RCB,Virat Kohli,,,,113,72,12,4,0
+19,282,RCB_RR_19,RCB,Faf Du Plessis,Ct,Jos B,Yuzvendra C,44,33,2,2,1
+19,283,RCB_RR_19,RCB,Glenn Maxwell,B,,Nandre B,1,3,0,0,1
+19,284,RCB_RR_19,RCB,Saurav Chauhan,Ct,Yashasvi J,Yuzvendra C,9,6,0,1,1
+19,285,RCB_RR_19,RCB,Cameron Green,,,,5,6,0,0,0
+19,286,RCB_RR_19,RR,Yashasvi Jaiswal,Ct,Glenn M,Reece T,0,2,0,0,1
+19,287,RCB_RR_19,RR,Jos Buttler,,,,100,58,9,4,0
+19,288,RCB_RR_19,RR,Sanju Samson,Ct,Yash D,Mohammed S,69,42,8,2,1
+19,289,RCB_RR_19,RR,Riyan Parag,Ct,Virat K,Yash D,4,4,1,0,1
+19,290,RCB_RR_19,RR,Dhruv Jurel,Ctw,Dinesh K,Reece T,2,3,0,0,1
+19,291,RCB_RR_19,RR,Shimron Hetmyer,,,,11,6,2,0,0
+20,292,DC_MI_20,MI,Rohit Sharma,B,,Axar P,49,27,6,3,1
+20,293,DC_MI_20,MI,Ishan Kishan,Ct,Axar P,Axar P,42,23,4,2,1
+20,294,DC_MI_20,MI,Suryakumar Yadav,Ct,Tristan S,Anrich N,0,2,0,0,1
+20,295,DC_MI_20,MI,Hardik Pandya,Ct,Substitute,Anrich N,39,33,3,1,1
+20,296,DC_MI_20,MI,Tilak Varma,Ct,Axar P,Khaleel A,6,5,1,0,1
+20,297,DC_MI_20,MI,Tim David,,,,45,21,2,4,0
+20,298,DC_MI_20,MI,Romario Shepherd,,,,39,10,3,4,0
+20,299,DC_MI_20,DC,Prithvi Shaw,B,,Jasprit B,66,40,8,3,1
+20,300,DC_MI_20,DC,David Warner,Ct,Hardik P,Romario S,10,8,1,1,1
+20,301,DC_MI_20,DC,Abishek Porel,Ct,Tim D,Jasprit B,41,31,5,0,1
+20,302,DC_MI_20,DC,Tristan Stubbs,,,,71,25,3,7,0
+20,303,DC_MI_20,DC,Rishabh Pant,Ct,Hardik P,Gerald C,1,3,0,0,1
+20,304,DC_MI_20,DC,Axar Patel,Ro,Ishan K,Mohammad N,8,7,1,0,1
+20,305,DC_MI_20,DC,Lalit Yadav,Ctw,Ishan K,Gerald C,3,4,0,0,1
+20,306,DC_MI_20,DC,Kumar Kushagra,Ct,Tilak V,Gerald C,0,1,0,0,1
+20,307,DC_MI_20,DC,Jhye Richardson,Ct,Rohit S,Gerald C,2,2,0,0,1
+21,308,GT_LSG_21,LSG,Quinton De Kock,Ct,Noor A,Umesh Y,6,4,0,1,1
+21,309,GT_LSG_21,LSG,K L Rahul,Ct,Rahul T,Darshan N,33,31,3,0,1
+21,310,GT_LSG_21,LSG,Devdutt Padikkal,Ct,Vijay S,Umesh Y,7,7,1,0,1
+21,311,GT_LSG_21,LSG,Marcus Stoinis,Ctw,Sharath B,Darshan N,58,43,4,2,1
+21,312,GT_LSG_21,LSG,Nicholas Pooran,,,,32,22,0,3,0
+21,313,GT_LSG_21,LSG,Ayush Badoni,Ct,Umesh Y,Rashid K,20,11,3,0,1
+21,314,GT_LSG_21,LSG,Krunal Pandya,,,,2,2,0,0,0
+21,315,GT_LSG_21,GT,Sai Sudharsan,Ct,Ravi B,Krunal P,31,23,4,0,1
+21,316,GT_LSG_21,GT,Shubman Gill,B,,Yash T,19,21,2,0,1
+21,317,GT_LSG_21,GT,Kane Williamson,Ct,Ravi B,Ravi B,1,5,0,0,1
+21,318,GT_LSG_21,GT,Sharath Br,Ct,Ayush B,Krunal P,2,5,0,0,1
+21,319,GT_LSG_21,GT,Vijay Shankar,Ctw,K L R,Yash T,17,17,0,1,1
+21,320,GT_LSG_21,GT,Darshan Nalkande,Ct,Yash T,Krunal P,12,11,0,1,1
+21,321,GT_LSG_21,GT,Rahul Tewatia,Ct,Nicholas P,Yash T,30,25,2,2,1
+21,322,GT_LSG_21,GT,Rashid Khan,Ct,Substitute,Yash T,0,3,0,0,1
+21,323,GT_LSG_21,GT,Umesh Yadav,Ct,Quinton D,Naveen U,2,4,0,0,1
+21,324,GT_LSG_21,GT,Spencer Johnson,,,,0,1,0,0,0
+21,325,GT_LSG_21,GT,Noor Ahmad,Ct,Quinton D,Yash T,4,2,1,0,1
+22,326,CSK_KKR_22,KKR,Philip Salt,Ct,Ravindra J,Tushar D,0,1,0,0,1
+22,327,CSK_KKR_22,KKR,Sunil Narine,Ct,Maheesh T,Ravindra J,27,20,3,2,1
+22,328,CSK_KKR_22,KKR,Angkrish Raghuvanshi,Lbw,,Ravindra J,24,18,3,1,1
+22,329,CSK_KKR_22,KKR,Shreyas Iyer,Ct,Ravindra J,Mustafizur R,34,32,3,0,1
+22,330,CSK_KKR_22,KKR,Venkatesh Iyer,Ct,Daryl M,Ravindra J,3,8,0,0,1
+22,331,CSK_KKR_22,KKR,Ramandeep Singh,B,,Maheesh T,13,12,0,1,1
+22,332,CSK_KKR_22,KKR,Rinku Singh,B,,Tushar D,9,14,0,0,1
+22,333,CSK_KKR_22,KKR,Andre Russell,Ct,Daryl M,Tushar D,10,10,2,0,1
+22,334,CSK_KKR_22,KKR,Anukul Roy,,,,3,3,0,0,0
+22,335,CSK_KKR_22,KKR,Mitchell Starc,Ct,Rachin R,Mustafizur R,0,3,0,0,1
+22,336,CSK_KKR_22,KKR,Vaibhav Arora,,,,1,1,0,0,0
+22,337,CSK_KKR_22,CSK,Rachin Ravindra,Ct,Varun C,Vaibhav A,15,8,3,0,1
+22,338,CSK_KKR_22,CSK,Ruturaj Gaikwad,,,,67,58,9,0,0
+22,339,CSK_KKR_22,CSK,Daryl Mitchell,B,,Sunil N,25,19,1,1,1
+22,340,CSK_KKR_22,CSK,Shivam Dube,B,,Vaibhav A,28,18,1,3,1
+22,341,CSK_KKR_22,CSK,M S Dhoni,,,,1,3,0,0,0
+23,342,PBKS_SRH_23,SRH,Travis Head,Ct,Shikhar D,Arshdeep S,21,15,4,0,1
+23,343,PBKS_SRH_23,SRH,Abhishek Sharma,Ct,Shashank S,Sam C,16,11,2,1,1
+23,344,PBKS_SRH_23,SRH,Aiden Markram,Ctw,Jitesh S,Arshdeep S,0,2,0,0,1
+23,345,PBKS_SRH_23,SRH,Nitish Reddy,Ct,Kagiso R,Arshdeep S,64,37,4,5,1
+23,346,PBKS_SRH_23,SRH,Rahul Tripathi,Ctw,Jitesh S,Harshal P,11,14,1,0,1
+23,347,PBKS_SRH_23,SRH,Heinrich Klaasen,Ct,Sam C,Harshal P,9,9,1,0,1
+23,348,PBKS_SRH_23,SRH,Abdul Samad,Ct,Harshal P,Arshdeep S,25,12,5,0,1
+23,349,PBKS_SRH_23,SRH,Shahbaz Ahmed,,,,14,7,1,1,0
+23,350,PBKS_SRH_23,SRH,Pat Cummins,B,,Kagiso R,3,4,0,0,1
+23,351,PBKS_SRH_23,SRH,Bhuvneshwar Kumar,Ct,Jonny B,Sam C,6,8,0,0,1
+23,352,PBKS_SRH_23,SRH,Jaydev Unadkat,,,,6,1,0,1,0
+23,353,PBKS_SRH_23,PBKS,Shikhar Dhawan,St,Heinrich K,Bhuvneshwar K,14,16,2,0,1
+23,354,PBKS_SRH_23,PBKS,Jonny Bairstow,B,,Pat C,0,3,0,0,1
+23,355,PBKS_SRH_23,PBKS,Prabhsimran Singh,Ct,Nitish R,Bhuvneshwar K,4,6,1,0,1
+23,356,PBKS_SRH_23,PBKS,Sam Curran,Ct,Pat C,T N,29,22,2,2,1
+23,357,PBKS_SRH_23,PBKS,Sikandar Raza,Ctw,Heinrich K,Jaydev U,28,22,2,2,1
+23,358,PBKS_SRH_23,PBKS,Shashank Singh,,,,46,25,6,1,0
+23,359,PBKS_SRH_23,PBKS,Jitesh Sharma,Ct,Abhishek S,Nitish R,19,11,1,1,1
+23,360,PBKS_SRH_23,PBKS,Ashutosh Sharma,,,,33,15,3,2,0
+24,361,GT_RR_24,RR,Yashasvi Jaiswal,Ct,Matthew W,Umesh Y,24,19,5,0,1
+24,362,GT_RR_24,RR,Jos Buttler,Ct,Rahul T,Rashid K,8,10,0,0,1
+24,363,GT_RR_24,RR,Sanju Samson,,,,68,38,7,2,0
+24,364,GT_RR_24,RR,Shimron Hetmyer,,,,13,5,1,1,0
+24,365,GT_RR_24,RR,Riyan Parag,Ct,Vijay S,Mohit S,76,48,3,5,1
+24,366,GT_RR_24,GT,Sai Sudharsan,Lbw,,Kuldeep S,35,29,3,1,1
+24,367,GT_RR_24,GT,Shubman Gill,St,Sanju S,Yuzvendra C,72,44,6,2,1
+24,368,GT_RR_24,GT,Matthew Wade,B,,Kuldeep S,4,6,0,0,1
+24,369,GT_RR_24,GT,Abhinav Manohar Sadarangani,B,,Kuldeep S,1,2,0,0,1
+24,370,GT_RR_24,GT,Vijay Shankar,B,,Yuzvendra C,16,10,3,0,1
+24,371,GT_RR_24,GT,Rahul Tewatia,Ro,Avesh K,Jos B,22,11,3,0,1
+24,372,GT_RR_24,GT,Shahrukh Khan,Lbw,,Avesh K,14,8,1,1,1
+24,373,GT_RR_24,GT,Rashid Khan,,,,20,10,3,0,0
+24,374,GT_RR_24,GT,Noor Ahmad,,,,4,1,1,0,0
+25,375,MI_RCB_25,RCB,Virat Kohli,Ctw,Ishan K,Jasprit B,3,9,0,0,1
+25,376,MI_RCB_25,RCB,Faf Du Plessis,Ct,Tim D,Jasprit B,61,40,4,3,1
+25,377,MI_RCB_25,RCB,Will Jacks,Ct,Tim D,Akash M,8,6,2,0,1
+25,378,MI_RCB_25,RCB,Rajat Patidar,Ctw,Ishan K,Gerald C,50,26,3,4,1
+25,379,MI_RCB_25,RCB,Glenn Maxwell,Lbw,,Shreyas G,0,4,0,0,1
+25,380,MI_RCB_25,RCB,Dinesh Karthik,,,,53,23,5,4,0
+25,381,MI_RCB_25,RCB,Mahipal Lomror,Lbw,,Jasprit B,0,1,0,0,1
+25,382,MI_RCB_25,RCB,Saurav Chauhan,Ct,Akash M,Jasprit B,9,8,1,0,1
+25,383,MI_RCB_25,RCB,Vijaykumar Vyshak,Ct,Mohammad N,Jasprit B,0,1,0,0,1
+25,384,MI_RCB_25,RCB,Akash Deep,,,,2,2,0,0,0
+25,385,MI_RCB_25,MI,Ishan Kishan,Ctw,Virat K,Akash D,69,34,7,5,1
+25,386,MI_RCB_25,MI,Rohit Sharma,Ct,Reece T,Will J,38,24,3,3,1
+25,387,MI_RCB_25,MI,Suryakumar Yadav,Ctw,Mahipal L,Vijaykumar V,52,19,5,4,1
+25,388,MI_RCB_25,MI,Hardik Pandya,,,,21,6,0,3,0
+25,389,MI_RCB_25,MI,Tilak Varma,,,,16,10,3,0,0
+26,390,DC_LSG_26,LSG,Quinton De Kock,Lbw,,Khaleel A,19,13,4,0,1
+26,391,DC_LSG_26,LSG,K L Rahul,Ctw,Rishabh P,Kuldeep Y,39,22,5,1,1
+26,392,DC_LSG_26,LSG,Devdutt Padikkal,Lbw,,Khaleel A,3,6,0,0,1
+26,393,DC_LSG_26,LSG,Marcus Stoinis,Ct,Ishant S,Kuldeep Y,8,10,1,0,1
+26,394,DC_LSG_26,LSG,Nicholas Pooran,B,,Kuldeep Y,0,1,0,0,1
+26,395,DC_LSG_26,LSG,Deepak Hooda,Ct,David W,Ishant S,10,13,0,0,1
+26,396,DC_LSG_26,LSG,Ayush Badoni,,,,55,35,5,1,0
+26,397,DC_LSG_26,LSG,Krunal Pandya,Ctw,Rishabh P,Mukesh K,3,4,0,0,1
+26,398,DC_LSG_26,LSG,Arshad Khan,,,,20,16,2,0,0
+26,399,DC_LSG_26,DC,Prithvi Shaw,Ct,Nicholas P,Ravi B,32,22,6,0,1
+26,400,DC_LSG_26,DC,David Warner,B,,Yash T,8,9,1,0,1
+26,401,DC_LSG_26,DC,Jake Fraser-Mcgurk,Ct,Arshad K,Naveen U,55,35,2,5,1
+26,402,DC_LSG_26,DC,Rishabh Pant,St,K L R,Ravi B,41,24,4,2,1
+26,403,DC_LSG_26,DC,Tristan Stubbs,,,,15,9,0,1,0
+26,404,DC_LSG_26,DC,Shai Hope,,,,11,10,1,0,0
+27,405,PBKS_RR_27,PBKS,Atharva Taide,Ct,Kuldeep S,Avesh K,15,12,2,0,1
+27,406,PBKS_RR_27,PBKS,Jonny Bairstow,Ct,Shimron H,Keshav M,15,19,1,0,1
+27,407,PBKS_RR_27,PBKS,Prabhsimran Singh,Ct,Dhruv J,Yuzvendra C,10,14,1,0,1
+27,408,PBKS_RR_27,PBKS,Sam Curran,Ct,Dhruv J,Keshav M,6,10,0,0,1
+27,409,PBKS_RR_27,PBKS,Jitesh Sharma,Ct,Riyan P,Avesh K,29,24,1,2,1
+27,410,PBKS_RR_27,PBKS,Shashank Singh,Ct,Dhruv J,Kuldeep S,9,9,1,0,1
+27,411,PBKS_RR_27,PBKS,Liam Livingstone,Ro,Tanush K,Sanju S,21,14,2,1,1
+27,412,PBKS_RR_27,PBKS,Ashutosh Sharma,Ct,Keshav M,Trent B,31,16,1,3,1
+27,413,PBKS_RR_27,PBKS,Harpreet Brar,,,,3,3,0,0,0
+27,414,PBKS_RR_27,RR,Yashasvi Jaiswal,Ct,Harshal P,Kagiso R,39,28,4,0,1
+27,415,PBKS_RR_27,RR,Tanush Kotian,B,,Liam L,24,31,3,0,1
+27,416,PBKS_RR_27,RR,Sanju Samson,Lbw,,Kagiso R,18,14,1,1,1
+27,417,PBKS_RR_27,RR,Riyan Parag,Ct,Kagiso R,Arshdeep S,23,18,1,1,1
+27,418,PBKS_RR_27,RR,Dhruv Jurel,Ct,Shashank S,Harshal P,6,11,0,0,1
+27,419,PBKS_RR_27,RR,Shimron Hetmyer,,,,27,10,1,3,0
+27,420,PBKS_RR_27,RR,Rovman Powell,Ctw,Jitesh S,Sam C,11,5,2,0,1
+27,421,PBKS_RR_27,RR,Keshav Maharaj,Ct,Liam L,Sam C,1,2,0,0,1
+28,422,KKR_LSG_28,LSG,Quinton De Kock,Ct,Sunil N,Vaibhav A,10,8,2,0,1
+28,423,KKR_LSG_28,LSG,K L Rahul,Ct,Ramandeep S,Andre R,39,27,3,2,1
+28,424,KKR_LSG_28,LSG,Deepak Hooda,Ct,Ramandeep S,Mitchell S,8,10,1,0,1
+28,425,KKR_LSG_28,LSG,Ayush Badoni,Ct,Angkrish R,Sunil N,29,27,2,1,1
+28,426,KKR_LSG_28,LSG,Marcus Stoinis,Ctw,Philip S,Varun C,10,5,2,0,1
+28,427,KKR_LSG_28,LSG,Nicholas Pooran,Ctw,Philip S,Mitchell S,45,32,2,4,1
+28,428,KKR_LSG_28,LSG,Krunal Pandya,,,,7,8,0,0,0
+28,429,KKR_LSG_28,LSG,Arshad Khan,B,,Mitchell S,5,4,1,0,1
+28,430,KKR_LSG_28,KKR,Philip Salt,,,,89,47,14,3,0
+28,431,KKR_LSG_28,KKR,Sunil Narine,Ct,Marcus S,Mohsin K,6,6,1,0,1
+28,432,KKR_LSG_28,KKR,Angkrish Raghuvanshi,Ctw,K L R,Mohsin K,7,6,0,1,1
+28,433,KKR_LSG_28,KKR,Shreyas Iyer,,,,38,38,6,0,0
+29,434,CSK_MI_29,CSK,Ajinkya Rahane,Ct,Hardik P,Gerald C,5,8,1,0,1
+29,435,CSK_MI_29,CSK,Rachin Ravindra,Ctw,Ishan K,Shreyas G,21,16,2,1,1
+29,436,CSK_MI_29,CSK,Ruturaj Gaikwad,Ct,Mohammad N,Hardik P,69,40,5,5,1
+29,437,CSK_MI_29,CSK,Shivam Dube,,,,66,38,10,2,0
+29,438,CSK_MI_29,CSK,Daryl Mitchell,Ct,Mohammad N,Hardik P,17,14,1,0,1
+29,439,CSK_MI_29,CSK,M S Dhoni,,,,20,4,0,3,0
+29,440,CSK_MI_29,MI,Rohit Sharma,,,,105,63,11,5,0
+29,441,CSK_MI_29,MI,Ishan Kishan,Ct,Shardul T,Matheesha P,23,15,3,1,1
+29,442,CSK_MI_29,MI,Suryakumar Yadav,Ct,Mustafizur R,Matheesha P,0,2,0,0,1
+29,443,CSK_MI_29,MI,Tilak Varma,Ct,Shardul T,Matheesha P,31,20,5,0,1
+29,444,CSK_MI_29,MI,Hardik Pandya,Ct,Ravindra J,Tushar D,2,6,0,0,1
+29,445,CSK_MI_29,MI,Tim David,Ct,Rachin R,Mustafizur R,13,5,0,2,1
+29,446,CSK_MI_29,MI,Romario Shepherd,B,,Matheesha P,1,2,0,0,1
+29,447,CSK_MI_29,MI,Mohammad Nabi,,,,4,7,0,0,0
+30,448,RCB_SRH_30,SRH,Abhishek Sharma,Ct,Lockie F,Reece T,34,22,2,2,1
+30,449,RCB_SRH_30,SRH,Travis Head,Ct,Faf D,Lockie F,102,41,9,8,1
+30,450,RCB_SRH_30,SRH,Heinrich Klaasen,Ct,Vijaykumar V,Lockie F,67,31,2,7,1
+30,451,RCB_SRH_30,SRH,Aiden Markram,,,,32,17,2,2,0
+30,452,RCB_SRH_30,SRH,Abdul Samad,,,,37,10,4,3,0
+30,453,RCB_SRH_30,RCB,Virat Kohli,B,,Mayank M,42,20,6,2,1
+30,454,RCB_SRH_30,RCB,Faf Du Plessis,Ctw,Heinrich K,Pat C,62,28,7,4,1
+30,455,RCB_SRH_30,RCB,Will Jacks,Ro,,Jaydev U,7,4,1,0,1
+30,456,RCB_SRH_30,RCB,Rajat Patidar,Ct,Nitish R,Mayank M,9,5,0,1,1
+30,457,RCB_SRH_30,RCB,Saurav Chauhan,Lbw,,Pat C,0,1,0,0,1
+30,458,RCB_SRH_30,RCB,Dinesh Karthik,Ctw,Heinrich K,T N,83,35,5,7,1
+30,459,RCB_SRH_30,RCB,Mahipal Lomror,B,,Pat C,19,11,0,2,1
+30,460,RCB_SRH_30,RCB,Anuj Rawat,,,,25,14,5,0,0
+30,461,RCB_SRH_30,RCB,Vijaykumar Vyshak,,,,1,2,0,0,0
+31,462,KKR_RR_31,KKR,Philip Salt,Ct,Avesh K,Avesh K,10,13,1,0,1
+31,463,KKR_RR_31,KKR,Sunil Narine,B,,Trent B,109,56,13,6,1
+31,464,KKR_RR_31,KKR,Angkrish Raghuvanshi,Ct,Ravichandran A,Kuldeep S,30,18,5,0,1
+31,465,KKR_RR_31,KKR,Shreyas Iyer,Lbw,,Yuzvendra C,11,7,1,1,1
+31,466,KKR_RR_31,KKR,Andre Russell,Ct,Dhruv J,Avesh K,13,10,2,0,1
+31,467,KKR_RR_31,KKR,Rinku Singh,,,,20,9,1,2,0
+31,468,KKR_RR_31,KKR,Venkatesh Iyer,Ct,Dhruv J,Kuldeep S,8,6,1,0,1
+31,469,KKR_RR_31,KKR,Ramandeep Singh,,,,1,1,0,0,0
+31,470,KKR_RR_31,RR,Yashasvi Jaiswal,Ct,Venkatesh I,Vaibhav A,19,9,3,1,1
+31,471,KKR_RR_31,RR,Jos Buttler,,,,107,60,9,6,0
+31,472,KKR_RR_31,RR,Sanju Samson,Ct,Sunil N,Harshit R,12,8,2,0,1
+31,473,KKR_RR_31,RR,Riyan Parag,Ct,Andre R,Harshit R,34,14,4,2,1
+31,474,KKR_RR_31,RR,Dhruv Jurel,Lbw,,Sunil N,2,4,0,0,1
+31,475,KKR_RR_31,RR,Ravichandran Ashwin,Ct,Angkrish R,Varun C,8,11,1,0,1
+31,476,KKR_RR_31,RR,Shimron Hetmyer,Ct,Shreyas I,Varun C,0,1,0,0,1
+31,477,KKR_RR_31,RR,Rovman Powell,Lbw,,Sunil N,26,13,1,3,1
+31,478,KKR_RR_31,RR,Trent Boult,Ro,Mitchell S,Shreyas I,0,1,0,0,1
+32,479,DC_GT_32,GT,Wriddhiman Saha,B,,Mukesh K,2,10,0,0,1
+32,480,DC_GT_32,GT,Shubman Gill,Ct,Prithvi S,Ishant S,8,6,2,0,1
+32,481,DC_GT_32,GT,Sai Sudharsan,Ro,,Sumit K,12,9,2,0,1
+32,482,DC_GT_32,GT,David Miller,Ctw,Rishabh P,Ishant S,2,6,0,0,1
+32,483,DC_GT_32,GT,Abhinav Manohar Sadarangani,St,Rishabh P,Tristan S,8,14,1,0,1
+32,484,DC_GT_32,GT,Rahul Tewatia,Lbw,,Axar P,10,15,1,0,1
+32,485,DC_GT_32,GT,Shahrukh Khan,St,Rishabh P,Tristan S,0,1,0,0,1
+32,486,DC_GT_32,GT,Rashid Khan,Ctw,Rishabh P,Mukesh K,31,24,2,1,1
+32,487,DC_GT_32,GT,Mohit Sharma,Ct,Sumit K,Khaleel A,2,14,0,0,1
+32,488,DC_GT_32,GT,Noor Ahmad,B,,Mukesh K,1,7,0,0,1
+32,489,DC_GT_32,GT,Spencer Johnson,,,,1,1,0,0,0
+32,490,DC_GT_32,DC,Prithvi Shaw,Ct,Spencer J,Sandeep W,7,6,1,0,1
+32,491,DC_GT_32,DC,Jake Fraser-Mcgurk,Ct,Abhinav Manohar S,Spencer J,20,10,2,2,1
+32,492,DC_GT_32,DC,Abishek Porel,B,,Sandeep W,15,7,2,1,1
+32,493,DC_GT_32,DC,Shai Hope,Ct,Mohit S,Rashid K,19,10,1,2,1
+32,494,DC_GT_32,DC,Rishabh Pant,,,,16,11,1,1,0
+32,495,DC_GT_32,DC,Sumit Kumar,,,,9,9,2,0,0
+33,496,MI_PBKS_33,MI,Ishan Kishan,Ct,Harpreet B,Kagiso R,8,8,1,0,1
+33,497,MI_PBKS_33,MI,Rohit Sharma,Ct,Harpreet B,Sam C,36,25,2,3,1
+33,498,MI_PBKS_33,MI,Suryakumar Yadav,Ct,Prabhsimran S,Sam C,78,53,7,3,1
+33,499,MI_PBKS_33,MI,Tilak Varma,,,,34,18,2,2,0
+33,500,MI_PBKS_33,MI,Hardik Pandya,Ct,Harpreet B,Harshal P,10,6,0,1,1
+33,501,MI_PBKS_33,MI,Tim David,Ct,Sam C,Harshal P,14,7,2,1,1
+33,502,MI_PBKS_33,MI,Romario Shepherd,Ct,Shashank S,Harshal P,1,2,0,0,1
+33,503,MI_PBKS_33,MI,Mohammad Nabi,Ro,,Harshal P,0,1,0,0,1
+33,504,MI_PBKS_33,PBKS,Sam Curran,Ctw,Ishan K,Jasprit B,6,7,1,0,1
+33,505,MI_PBKS_33,PBKS,Prabhsimran Singh,Ctw,Ishan K,Gerald C,0,1,0,0,1
+33,506,MI_PBKS_33,PBKS,Rilee Rossouw,B,,Jasprit B,1,3,0,0,1
+33,507,MI_PBKS_33,PBKS,Liam Livingstone,Ct,Gerald C,Gerald C,1,2,0,0,1
+33,508,MI_PBKS_33,PBKS,Harpreet Singh Bhatia,Ct,Shreyas G,Shreyas G,13,15,2,0,1
+33,509,MI_PBKS_33,PBKS,Shashank Singh,Ct,Tilak V,Jasprit B,41,25,2,3,1
+33,510,MI_PBKS_33,PBKS,Jitesh Sharma,Lbw,,Akash M,9,9,1,0,1
+33,511,MI_PBKS_33,PBKS,Ashutosh Sharma,Ct,Mohammad N,Gerald C,61,28,2,7,1
+33,512,MI_PBKS_33,PBKS,Harpreet Brar,Ct,Mohammad N,Hardik P,21,20,2,1,1
+33,513,MI_PBKS_33,PBKS,Harshal Patel,,,,1,4,0,0,0
+33,514,MI_PBKS_33,PBKS,Kagiso Rabada,Ro,Ishan K,Mohammad N,8,3,0,1,1
+34,515,CSK_LSG_34,CSK,Ajinkya Rahane,B,,Krunal P,36,24,5,1,1
+34,516,CSK_LSG_34,CSK,Rachin Ravindra,B,,Mohsin K,0,1,0,0,1
+34,517,CSK_LSG_34,CSK,Ruturaj Gaikwad,Ctw,K L R,Yash T,17,13,1,0,1
+34,518,CSK_LSG_34,CSK,Ravindra Jadeja,,,,57,40,5,1,0
+34,519,CSK_LSG_34,CSK,Shivam Dube,Ctw,K L R,Marcus S,3,8,0,0,1
+34,520,CSK_LSG_34,CSK,Sameer Rizvi,St,K L R,Krunal P,1,5,0,0,1
+34,521,CSK_LSG_34,CSK,Moeen Ali,Ct,Ayush B,Ravi B,30,20,0,3,1
+34,522,CSK_LSG_34,CSK,M S Dhoni,,,,28,9,3,2,0
+34,523,CSK_LSG_34,LSG,Quinton De Kock,Ctw,M S D,Mustafizur R,54,43,5,1,1
+34,524,CSK_LSG_34,LSG,K L Rahul,Ct,Ravindra J,Matheesha P,82,53,9,3,1
+34,525,CSK_LSG_34,LSG,Nicholas Pooran,,,,23,12,3,1,0
+34,526,CSK_LSG_34,LSG,Marcus Stoinis,,,,8,7,1,0,0
+35,527,DC_SRH_35,SRH,Travis Head,Ct,Tristan S,Kuldeep Y,89,32,11,6,1
+35,528,DC_SRH_35,SRH,Abhishek Sharma,Ct,Axar P,Kuldeep Y,46,12,2,6,1
+35,529,DC_SRH_35,SRH,Aiden Markram,Ct,Axar P,Kuldeep Y,1,3,0,0,1
+35,530,DC_SRH_35,SRH,Heinrich Klaasen,B,,Axar P,15,8,0,2,1
+35,531,DC_SRH_35,SRH,Nitish Reddy,Ct,David W,Kuldeep Y,37,27,2,2,1
+35,532,DC_SRH_35,SRH,Shahbaz Ahmed,,,,59,29,2,5,0
+35,533,DC_SRH_35,SRH,Abdul Samad,Ct,Anrich N,Mukesh K,13,8,1,1,1
+35,534,DC_SRH_35,SRH,Pat Cummins,Ro,Mukesh K,Tristan S,1,1,0,0,1
+35,535,DC_SRH_35,DC,Prithvi Shaw,Ct,Abdul S,Washington S,16,5,4,0,1
+35,536,DC_SRH_35,DC,David Warner,Ct,Pat C,Bhuvneshwar K,1,3,0,0,1
+35,537,DC_SRH_35,DC,Jake Fraser-Mcgurk,Ctw,Heinrich K,Mayank M,65,18,5,7,1
+35,538,DC_SRH_35,DC,Abishek Porel,St,Heinrich K,Mayank M,42,22,7,1,1
+35,539,DC_SRH_35,DC,Tristan Stubbs,Ct,Shahbaz A,Nitish R,10,11,0,0,1
+35,540,DC_SRH_35,DC,Rishabh Pant,Ct,T N,Nitish R,44,35,5,1,1
+35,541,DC_SRH_35,DC,Lalit Yadav,B,,T N,7,8,1,0,1
+35,542,DC_SRH_35,DC,Axar Patel,Ct,Pat C,T N,6,8,0,0,1
+35,543,DC_SRH_35,DC,Anrich Nortje,B,,T N,0,2,0,0,1
+35,544,DC_SRH_35,DC,Kuldeep Yadav,Lbw,,T N,0,1,0,0,1
+35,545,DC_SRH_35,DC,Mukesh Kumar,,,,0,2,0,0,0
+36,546,KKR_RCB_36,KKR,Philip Salt,Ct,Rajat P,Mohammed S,48,14,7,3,1
+36,547,KKR_RCB_36,KKR,Sunil Narine,Ct,Virat K,Yash D,10,15,2,0,1
+36,548,KKR_RCB_36,KKR,Angkrish Raghuvanshi,Ct,Cameron G,Yash D,3,4,0,0,1
+36,549,KKR_RCB_36,KKR,Venkatesh Iyer,Ct,Mahipal L,Cameron G,16,8,3,0,1
+36,550,KKR_RCB_36,KKR,Shreyas Iyer,Ct,Faf D,Cameron G,50,36,7,1,1
+36,551,KKR_RCB_36,KKR,Rinku Singh,Ct,Yash D,Lockie F,24,16,2,1,1
+36,552,KKR_RCB_36,KKR,Andre Russell,,,,27,20,4,0,0
+36,553,KKR_RCB_36,KKR,Ramandeep Singh,,,,24,9,2,2,0
+36,554,KKR_RCB_36,RCB,Virat Kohli,Ct,Harshit R,Harshit R,18,7,1,2,1
+36,555,KKR_RCB_36,RCB,Faf Du Plessis,Ct,Venkatesh I,Varun C,7,7,1,0,1
+36,556,KKR_RCB_36,RCB,Will Jacks,Ct,Angkrish R,Andre R,55,32,4,5,1
+36,557,KKR_RCB_36,RCB,Rajat Patidar,Ct,Harshit R,Andre R,52,23,3,5,1
+36,558,KKR_RCB_36,RCB,Cameron Green,Ct,Ramandeep S,Sunil N,6,4,0,1,1
+36,559,KKR_RCB_36,RCB,Suyash Prabhudessai,Ct,Angkrish R,Harshit R,24,18,3,0,1
+36,560,KKR_RCB_36,RCB,Mahipal Lomror,Ct,Sunil N,Sunil N,4,3,1,0,1
+36,561,KKR_RCB_36,RCB,Dinesh Karthik,Ctw,Philip S,Andre R,25,18,3,1,1
+36,562,KKR_RCB_36,RCB,Karn Sharma,Ct,Mitchell S,Mitchell S,20,7,0,3,1
+36,563,KKR_RCB_36,RCB,Mohammed Siraj,,,,0,0,0,0,0
+36,564,KKR_RCB_36,RCB,Lockie Ferguson,Ro,Philip S,Harshit R,1,1,0,0,1
+37,565,GT_PBKS_37,PBKS,Sam Curran,Lbw,,Rashid K,20,19,2,0,1
+37,566,GT_PBKS_37,PBKS,Prabhsimran Singh,Ctw,Wriddhiman S,Mohit S,35,21,3,3,1
+37,567,GT_PBKS_37,PBKS,Rilee Rossouw,Lbw,,Noor A,9,7,2,0,1
+37,568,GT_PBKS_37,PBKS,Jitesh Sharma,B,,Ravisrinivasan  Sai K,13,12,0,1,1
+37,569,GT_PBKS_37,PBKS,Liam Livingstone,Ct,Rahul T,Noor A,6,9,1,0,1
+37,570,GT_PBKS_37,PBKS,Shashank Singh,Ct,Ravisrinivasan  Sai K,Ravisrinivasan  Sai K,8,12,0,0,1
+37,571,GT_PBKS_37,PBKS,Ashutosh Sharma,Ct,Mohit S,Ravisrinivasan  Sai K,3,8,0,0,1
+37,572,GT_PBKS_37,PBKS,Harpreet Singh Bhatia,Ro,Wriddhiman S,Sai S,14,19,0,0,1
+37,573,GT_PBKS_37,PBKS,Harpreet Brar,Ct,Shahrukh K,Ravisrinivasan  Sai K,29,12,4,1,1
+37,574,GT_PBKS_37,PBKS,Harshal Patel,Ct,Shahrukh K,Mohit S,0,1,0,0,1
+37,575,GT_PBKS_37,PBKS,Kagiso Rabada,,,,1,1,0,0,0
+37,576,GT_PBKS_37,GT,Wriddhiman Saha,Ct,Ashutosh S,Arshdeep S,13,11,1,0,1
+37,577,GT_PBKS_37,GT,Shubman Gill,Ct,Kagiso R,Liam L,35,29,5,0,1
+37,578,GT_PBKS_37,GT,Sai Sudharsan,B,,Sam C,31,34,3,0,1
+37,579,GT_PBKS_37,GT,David Miller,B,,Liam L,4,6,0,0,1
+37,580,GT_PBKS_37,GT,Azmatullah Omarzai,Ctw,Jitesh S,Harshal P,13,10,0,1,1
+37,581,GT_PBKS_37,GT,Rahul Tewatia,,,,36,18,7,0,0
+37,582,GT_PBKS_37,GT,Shahrukh Khan,B,,Harshal P,8,4,0,1,1
+37,583,GT_PBKS_37,GT,Rashid Khan,Ct,Rilee R,Harshal P,3,3,0,0,1
+38,584,MI_RR_38,MI,Rohit Sharma,Ctw,Sanju S,Trent B,6,5,1,0,1
+38,585,MI_RR_38,MI,Ishan Kishan,Ctw,Sanju S,Sandeep S,0,3,0,0,1
+38,586,MI_RR_38,MI,Suryakumar Yadav,Ct,Rovman P,Sandeep S,10,8,2,0,1
+38,587,MI_RR_38,MI,Tilak Varma,Ct,Rovman P,Sandeep S,65,45,5,3,1
+38,588,MI_RR_38,MI,Mohammad Nabi,Ct,Yuzvendra C,Yuzvendra C,23,17,2,1,1
+38,589,MI_RR_38,MI,Nehal Wadhera,Ct,Sanju S,Trent B,49,24,3,4,1
+38,590,MI_RR_38,MI,Hardik Pandya,Lbw,,Avesh K,10,10,1,0,1
+38,591,MI_RR_38,MI,Tim David,Ct,Riyan P,Sandeep S,3,5,0,0,1
+38,592,MI_RR_38,MI,Gerald Coetzee,Ct,Shimron H,Sandeep S,0,1,0,0,1
+38,593,MI_RR_38,MI,Piyush Chawla,,,,1,1,0,0,0
+38,594,MI_RR_38,MI,Jasprit Bumrah,,,,2,1,0,0,0
+38,595,MI_RR_38,RR,Yashasvi Jaiswal,,,,104,60,9,7,0
+38,596,MI_RR_38,RR,Jos Buttler,B,,Piyush C,35,25,6,0,1
+38,597,MI_RR_38,RR,Sanju Samson,,,,38,28,2,2,0
+39,598,CSK_LSG_39,CSK,Ajinkya Rahane,Ctw,K L R,Matt H,1,3,0,0,1
+39,599,CSK_LSG_39,CSK,Ruturaj Gaikwad,,,,108,60,12,3,0
+39,600,CSK_LSG_39,CSK,Daryl Mitchell,Ct,Deepak H,Yash T,11,10,1,0,1
+39,601,CSK_LSG_39,CSK,Ravindra Jadeja,Ctw,K L R,Mohsin K,16,19,2,0,1
+39,602,CSK_LSG_39,CSK,Shivam Dube,Ro,Marcus S,Quinton D,66,27,3,7,1
+39,603,CSK_LSG_39,CSK,M S Dhoni,,,,4,1,1,0,0
+39,604,CSK_LSG_39,LSG,Quinton De Kock,B,,Deepak C,0,3,0,0,1
+39,605,CSK_LSG_39,LSG,K L Rahul,,,,16,14,1,1,0
+39,606,CSK_LSG_39,LSG,Devdutt Padikkal,B,,Matheesha P,13,19,0,0,1
+39,607,CSK_LSG_39,LSG,Marcus Stoinis,,,,124,63,13,6,0
+39,608,CSK_LSG_39,LSG,Nicholas Pooran,Ct,Shardul T,Matheesha P,34,15,3,2,1
+39,609,CSK_LSG_39,LSG,Deepak Hooda,,,,17,6,2,1,0
+40,610,DC_GT_40,DC,Prithvi Shaw,Ct,Noor A,Sandeep W,11,7,2,0,1
+40,611,DC_GT_40,DC,Jake Fraser-Mcgurk,Ct,Noor A,Sandeep W,23,14,2,2,1
+40,612,DC_GT_40,DC,Axar Patel,Ct,Ravisrinivasan  Sai K,Noor A,66,43,5,4,1
+40,613,DC_GT_40,DC,Shai Hope,Ct,Rashid K,Sandeep W,5,6,1,0,1
+40,614,DC_GT_40,DC,Rishabh Pant,,,,88,43,5,8,0
+40,615,DC_GT_40,DC,Tristan Stubbs,,,,26,7,3,2,0
+40,616,DC_GT_40,GT,Wriddhiman Saha,Ct,Axar P,Kuldeep Y,39,25,5,1,1
+40,617,DC_GT_40,GT,Shubman Gill,Ct,Axar P,Anrich N,6,5,1,0,1
+40,618,DC_GT_40,GT,Sai Sudharsan,Ct,Axar P,Rasikh D,65,39,7,2,1
+40,619,DC_GT_40,GT,Azmatullah Omarzai,Ct,Jake F,Axar P,1,2,0,0,1
+40,620,DC_GT_40,GT,David Miller,Ct,Rasikh D,Mukesh K,55,23,6,3,1
+40,621,DC_GT_40,GT,Shahrukh Khan,Ctw,Rishabh P,Rasikh D,8,5,0,1,1
+40,622,DC_GT_40,GT,Rahul Tewatia,Ctw,Rishabh P,Kuldeep Y,4,5,0,0,1
+40,623,DC_GT_40,GT,Rashid Khan,,,,21,11,3,1,0
+40,624,DC_GT_40,GT,Ravisrinivasan  Sai Kishore,B,,Rasikh D,13,6,0,2,1
+41,625,RCB_SRH_41,RCB,Virat Kohli,Ct,Abdul S,Jaydev U,51,43,4,1,1
+41,626,RCB_SRH_41,RCB,Faf Du Plessis,Ct,Aiden M,T N,25,12,3,1,1
+41,627,RCB_SRH_41,RCB,Will Jacks,B,,Mayank M,6,9,0,0,1
+41,628,RCB_SRH_41,RCB,Rajat Patidar,Ct,Abdul S,Jaydev U,50,20,2,5,1
+41,629,RCB_SRH_41,RCB,Cameron Green,,,,37,20,5,0,0
+41,630,RCB_SRH_41,RCB,Mahipal Lomror,Ct,Pat C,Jaydev U,7,4,1,0,1
+41,631,RCB_SRH_41,RCB,Dinesh Karthik,Ct,Abdul S,Pat C,11,6,2,0,1
+41,632,RCB_SRH_41,RCB,Swapnil Singh,Ct,Abhishek S,T N,12,6,1,1,1
+41,633,RCB_SRH_41,SRH,Abhishek Sharma,Ctw,Dinesh K,Yash D,31,13,3,2,1
+41,634,RCB_SRH_41,SRH,Travis Head,Ct,Karn S,Will J,1,3,0,0,1
+41,635,RCB_SRH_41,SRH,Aiden Markram,Lbw,,Swapnil S,7,8,1,0,1
+41,636,RCB_SRH_41,SRH,Nitish Reddy,B,,Karn S,13,13,0,1,1
+41,637,RCB_SRH_41,SRH,Heinrich Klaasen,Ct,Cameron G,Swapnil S,7,3,0,1,1
+41,638,RCB_SRH_41,SRH,Shahbaz Ahmed,,,,40,37,1,1,0
+41,639,RCB_SRH_41,SRH,Abdul Samad,Ct,Karn S,Karn S,10,6,0,1,1
+41,640,RCB_SRH_41,SRH,Pat Cummins,Ct,Mohammed S,Cameron G,31,15,1,3,1
+41,641,RCB_SRH_41,SRH,Bhuvneshwar Kumar,Ct,Mohammed S,Cameron G,13,13,3,0,1
+41,642,RCB_SRH_41,SRH,Jaydev Unadkat,,,,8,10,1,0,0
+42,643,KKR_PBKS_42,KKR,Philip Salt,B,,Sam C,75,37,6,6,1
+42,644,KKR_PBKS_42,KKR,Sunil Narine,Ct,Jonny B,Rahul C,71,32,9,4,1
+42,645,KKR_PBKS_42,KKR,Venkatesh Iyer,Ro,,Jitesh S,39,23,3,2,1
+42,646,KKR_PBKS_42,KKR,Andre Russell,Ct,Harshal P,Arshdeep S,24,12,2,2,1
+42,647,KKR_PBKS_42,KKR,Shreyas Iyer,Ct,Kagiso R,Arshdeep S,28,10,1,3,1
+42,648,KKR_PBKS_42,KKR,Rinku Singh,Ct,Ashutosh S,Harshal P,5,4,1,0,1
+42,649,KKR_PBKS_42,KKR,Ramandeep Singh,,,,6,3,0,1,0
+42,650,KKR_PBKS_42,PBKS,Prabhsimran Singh,Ro,,Sunil N,54,20,4,5,1
+42,651,KKR_PBKS_42,PBKS,Jonny Bairstow,,,,108,48,8,9,0
+42,652,KKR_PBKS_42,PBKS,Rilee Rossouw,Ct,Shreyas I,Sunil N,26,16,1,2,1
+42,653,KKR_PBKS_42,PBKS,Shashank Singh,,,,68,28,2,8,0
+43,654,DC_MI_43,DC,Jake Fraser-Mcgurk,Ct,Mohammad N,Piyush C,84,27,11,6,1
+43,655,DC_MI_43,DC,Abishek Porel,Ctw,Ishan K,Mohammad N,36,27,3,1,1
+43,656,DC_MI_43,DC,Shai Hope,Ct,Tilak V,Luke W,41,17,0,5,1
+43,657,DC_MI_43,DC,Rishabh Pant,Ct,Rohit S,Jasprit B,29,19,2,2,1
+43,658,DC_MI_43,DC,Tristan Stubbs,,,,48,25,6,2,0
+43,659,DC_MI_43,DC,Axar Patel,,,,11,6,0,1,0
+43,660,DC_MI_43,MI,Ishan Kishan,Ct,Axar P,Mukesh K,20,14,4,0,1
+43,661,DC_MI_43,MI,Rohit Sharma,Ct,Shai H,Khaleel A,8,8,1,0,1
+43,662,DC_MI_43,MI,Suryakumar Yadav,Ct,Lizaad W,Khaleel A,26,13,3,2,1
+43,663,DC_MI_43,MI,Tilak Varma,Ro,Rishabh P,Substitute,63,32,4,4,1
+43,664,DC_MI_43,MI,Hardik Pandya,Ct,Mukesh K,Rasikh D,46,24,4,3,1
+43,665,DC_MI_43,MI,Nehal Wadhera,Ctw,Rishabh P,Rasikh D,4,2,1,0,1
+43,666,DC_MI_43,MI,Tim David,Lbw,,Mukesh K,37,17,2,3,1
+43,667,DC_MI_43,MI,Mohammad Nabi,Ct,Shai H,Rasikh D,7,4,0,1,1
+43,668,DC_MI_43,MI,Piyush Chawla,Ct,Shai H,Mukesh K,10,4,1,1,1
+43,669,DC_MI_43,MI,Luke Wood,,,,9,3,0,1,0
+44,670,LSG_RR_44,LSG,Quinton De Kock,B,,Trent B,8,3,2,0,1
+44,671,LSG_RR_44,LSG,K L Rahul,Ct,Trent B,Avesh K,76,48,8,2,1
+44,672,LSG_RR_44,LSG,Marcus Stoinis,B,,Sandeep S,0,4,0,0,1
+44,673,LSG_RR_44,LSG,Deepak Hooda,Ct,Rovman P,Ravichandran A,50,31,7,0,1
+44,674,LSG_RR_44,LSG,Nicholas Pooran,Ct,Trent B,Sandeep S,11,11,1,0,1
+44,675,LSG_RR_44,LSG,Ayush Badoni,,,,18,13,1,0,0
+44,676,LSG_RR_44,LSG,Krunal Pandya,,,,15,11,1,0,0
+44,677,LSG_RR_44,RR,Yashasvi Jaiswal,Ct,Ravi B,Marcus S,24,18,3,1,1
+44,678,LSG_RR_44,RR,Jos Buttler,B,,Yash T,34,18,4,1,1
+44,679,LSG_RR_44,RR,Sanju Samson,,,,71,33,7,4,0
+44,680,LSG_RR_44,RR,Riyan Parag,Ct,Ayush B,Amit M,14,11,0,1,1
+44,681,LSG_RR_44,RR,Dhruv Jurel,,,,52,34,5,2,0
+45,682,GT_RCB_45,GT,Wriddhiman Saha,Ct,Karn S,Swapnil S,5,4,1,0,1
+45,683,GT_RCB_45,GT,Shubman Gill,Ct,Cameron G,Glenn M,16,19,1,0,1
+45,684,GT_RCB_45,GT,Sai Sudharsan,,,,84,49,8,4,0
+45,685,GT_RCB_45,GT,Shahrukh Khan,B,,Mohammed S,58,30,3,5,1
+45,686,GT_RCB_45,GT,David Miller,,,,26,19,2,1,0
+45,687,GT_RCB_45,RCB,Virat Kohli,,,,70,44,6,3,0
+45,688,GT_RCB_45,RCB,Faf Du Plessis,Ct,Substitute,Ravisrinivasan  Sai K,24,12,1,3,1
+45,689,GT_RCB_45,RCB,Will Jacks,,,,100,41,5,10,0
+46,690,CSK_SRH_46,CSK,Ajinkya Rahane,Ct,Shahbaz A,Bhuvneshwar K,9,12,1,0,1
+46,691,CSK_SRH_46,CSK,Ruturaj Gaikwad,Ct,Nitish R,T N,98,54,10,3,1
+46,692,CSK_SRH_46,CSK,Daryl Mitchell,Ct,Nitish R,Jaydev U,52,32,7,1,1
+46,693,CSK_SRH_46,CSK,Shivam Dube,,,,39,20,1,4,0
+46,694,CSK_SRH_46,CSK,M S Dhoni,,,,5,2,1,0,0
+46,695,CSK_SRH_46,SRH,Travis Head,Ct,Daryl M,Tushar D,13,7,1,1,1
+46,696,CSK_SRH_46,SRH,Abhishek Sharma,Ct,Daryl M,Tushar D,15,9,1,1,1
+46,697,CSK_SRH_46,SRH,Anmolpreet Singh,Ct,Moeen A,Tushar D,0,1,0,0,1
+46,698,CSK_SRH_46,SRH,Aiden Markram,B,,Matheesha P,32,26,4,0,1
+46,699,CSK_SRH_46,SRH,Nitish Reddy,Ctw,M S D,Ravindra J,15,15,0,0,1
+46,700,CSK_SRH_46,SRH,Heinrich Klaasen,Ct,Daryl M,Matheesha P,20,21,0,1,1
+46,701,CSK_SRH_46,SRH,Abdul Samad,Ct,Substitute,Shardul T,19,18,1,1,1
+46,702,CSK_SRH_46,SRH,Shahbaz Ahmed,Ct,Daryl M,Mustafizur R,7,5,1,0,1
+46,703,CSK_SRH_46,SRH,Pat Cummins,Ct,Daryl M,Tushar D,5,7,1,0,1
+46,704,CSK_SRH_46,SRH,Bhuvneshwar Kumar,,,,4,3,0,0,0
+46,705,CSK_SRH_46,SRH,Jaydev Unadkat,Ct,Moeen A,Mustafizur R,1,2,0,0,1
+47,706,DC_KKR_47,DC,Prithvi Shaw,Ctw,Philip S,Vaibhav A,13,7,3,0,1
+47,707,DC_KKR_47,DC,Jake Fraser-Mcgurk,Ct,Venkatesh I,Mitchell S,12,7,1,1,1
+47,708,DC_KKR_47,DC,Abishek Porel,B,,Harshit R,18,15,2,1,1
+47,709,DC_KKR_47,DC,Shai Hope,B,,Vaibhav A,6,3,0,1,1
+47,710,DC_KKR_47,DC,Rishabh Pant,Ct,Shreyas I,Varun C,27,20,2,1,1
+47,711,DC_KKR_47,DC,Axar Patel,B,,Sunil N,15,21,2,0,1
+47,712,DC_KKR_47,DC,Tristan Stubbs,Ctw,Philip S,Varun C,4,7,0,0,1
+47,713,DC_KKR_47,DC,Kumar Kushagra,Ctw,Philip S,Varun C,1,3,0,0,1
+47,714,DC_KKR_47,DC,Kuldeep Yadav,,,,35,26,5,1,0
+47,715,DC_KKR_47,DC,Rasikh Dar,Ct,Shreyas I,Harshit R,8,10,1,0,1
+47,716,DC_KKR_47,DC,Lizaad Williams,,,,1,2,0,0,0
+47,717,DC_KKR_47,KKR,Philip Salt,B,,Axar P,68,33,7,5,1
+47,718,DC_KKR_47,KKR,Sunil Narine,Ct,Jake F,Axar P,15,10,3,0,1
+47,719,DC_KKR_47,KKR,Rinku Singh,Ct,Kuldeep Y,Lizaad W,11,11,1,0,1
+47,720,DC_KKR_47,KKR,Shreyas Iyer,,,,33,23,3,1,0
+47,721,DC_KKR_47,KKR,Venkatesh Iyer,,,,26,23,2,1,0
+48,722,LSG_MI_48,MI,Ishan Kishan,Ct,Mayank Y,Ravi B,32,36,3,0,1
+48,723,LSG_MI_48,MI,Rohit Sharma,Ct,Marcus S,Mohsin K,4,5,1,0,1
+48,724,LSG_MI_48,MI,Suryakumar Yadav,Ctw,K L R,Marcus S,10,6,0,1,1
+48,725,LSG_MI_48,MI,Tilak Varma,Ro,,Ravi B,7,11,1,0,1
+48,726,LSG_MI_48,MI,Hardik Pandya,Ctw,K L R,Naveen U,0,1,0,0,1
+48,727,LSG_MI_48,MI,Nehal Wadhera,B,,Mohsin K,46,41,4,2,1
+48,728,LSG_MI_48,MI,Tim David,,,,35,18,3,1,0
+48,729,LSG_MI_48,MI,Mohammad Nabi,B,,Mayank Y,1,2,0,0,1
+48,730,LSG_MI_48,MI,Gerald Coetzee,,,,1,2,0,0,0
+48,731,LSG_MI_48,LSG,K L Rahul,Ct,Mohammad N,Hardik P,28,22,3,1,1
+48,732,LSG_MI_48,LSG,Arshin Kulkarni,Lbw,,Nuwan T,0,1,0,0,1
+48,733,LSG_MI_48,LSG,Marcus Stoinis,Ct,Tilak V,Mohammad N,62,45,7,2,1
+48,734,LSG_MI_48,LSG,Deepak Hooda,Ct,Jasprit B,Hardik P,18,18,2,0,1
+48,735,LSG_MI_48,LSG,Nicholas Pooran,,,,14,14,1,0,0
+48,736,LSG_MI_48,LSG,Ashton Turner,B,,Gerald C,5,9,0,0,1
+48,737,LSG_MI_48,LSG,Ayush Badoni,Ro,Ishan K,Substitute,6,6,1,0,1
+48,738,LSG_MI_48,LSG,Krunal Pandya,,,,1,1,0,0,0
+49,739,CSK_PBKS_49,CSK,Ajinkya Rahane,Ct,Rilee R,Harpreet B,29,24,5,0,1
+49,740,CSK_PBKS_49,CSK,Ruturaj Gaikwad,B,,Arshdeep S,62,48,5,2,1
+49,741,CSK_PBKS_49,CSK,Shivam Dube,Lbw,,Harpreet B,0,1,0,0,1
+49,742,CSK_PBKS_49,CSK,Ravindra Jadeja,Lbw,,Rahul C,2,4,0,0,1
+49,743,CSK_PBKS_49,CSK,Sameer Rizvi,Ct,Harshal P,Kagiso R,21,23,1,0,1
+49,744,CSK_PBKS_49,CSK,Moeen Ali,B,,Rahul C,15,9,1,1,1
+49,745,CSK_PBKS_49,CSK,M S Dhoni,Ro,Jitesh S,Harshal P,14,11,1,1,1
+49,746,CSK_PBKS_49,CSK,Daryl Mitchell,,,,1,1,0,0,0
+49,747,CSK_PBKS_49,PBKS,Prabhsimran Singh,Ct,Ruturaj G,Richard G,13,10,1,1,1
+49,748,CSK_PBKS_49,PBKS,Jonny Bairstow,Ctw,M S D,Shivam D,46,30,7,1,1
+49,749,CSK_PBKS_49,PBKS,Rilee Rossouw,B,,Shardul T,43,23,5,2,1
+49,750,CSK_PBKS_49,PBKS,Shashank Singh,,,,25,26,1,1,0
+49,751,CSK_PBKS_49,PBKS,Sam Curran,,,,26,20,3,0,0
+50,752,RR_SRH_50,SRH,Travis Head,B,,Avesh K,58,44,6,3,1
+50,753,RR_SRH_50,SRH,Abhishek Sharma,Ct,Dhruv J,Avesh K,12,10,0,1,1
+50,754,RR_SRH_50,SRH,Anmolpreet Singh,Ct,Yashasvi J,Sandeep S,5,5,1,0,1
+50,755,RR_SRH_50,SRH,Nitish Reddy,,,,76,42,3,8,0
+50,756,RR_SRH_50,SRH,Heinrich Klaasen,,,,42,19,3,3,0
+50,757,RR_SRH_50,RR,Yashasvi Jaiswal,B,,T N,67,40,7,2,1
+50,758,RR_SRH_50,RR,Jos Buttler,Ct,Marco J,Bhuvneshwar K,0,1,0,0,1
+50,759,RR_SRH_50,RR,Sanju Samson,B,,Bhuvneshwar K,0,3,0,0,1
+50,760,RR_SRH_50,RR,Riyan Parag,Ct,Marco J,Pat C,77,49,8,4,1
+50,761,RR_SRH_50,RR,Shimron Hetmyer,Ct,Marco J,T N,13,9,1,1,1
+50,762,RR_SRH_50,RR,Rovman Powell,Lbw,,Bhuvneshwar K,27,15,3,1,1
+50,763,RR_SRH_50,RR,Dhruv Jurel,Ct,Abhishek S,Pat C,1,3,0,0,1
+50,764,RR_SRH_50,RR,Ravichandran Ashwin,,,,2,2,0,0,0
+51,765,KKR_MI_51,KKR,Philip Salt,Ct,Tilak V,Nuwan T,5,3,1,0,1
+51,766,KKR_MI_51,KKR,Sunil Narine,B,,Hardik P,8,8,0,1,1
+51,767,KKR_MI_51,KKR,Angkrish Raghuvanshi,Ct,Suryakumar Y,Nuwan T,13,6,0,2,1
+51,768,KKR_MI_51,KKR,Shreyas Iyer,Ct,Tim D,Nuwan T,6,4,1,0,1
+51,769,KKR_MI_51,KKR,Venkatesh Iyer,B,,Jasprit B,70,52,6,3,1
+51,770,KKR_MI_51,KKR,Rinku Singh,Ct,Piyush C,Piyush C,9,8,2,0,1
+51,771,KKR_MI_51,KKR,Manish Pandey,Ct,Substitute,Hardik P,42,31,2,2,1
+51,772,KKR_MI_51,KKR,Andre Russell,Ro,Hardik P,Nuwan T,7,2,0,1,1
+51,773,KKR_MI_51,KKR,Ramandeep Singh,Ct,Gerald C,Jasprit B,2,4,0,0,1
+51,774,KKR_MI_51,KKR,Mitchell Starc,B,,Jasprit B,0,2,0,0,1
+51,775,KKR_MI_51,MI,Ishan Kishan,B,,Mitchell S,13,7,1,1,1
+51,776,KKR_MI_51,MI,Rohit Sharma,Ct,Manish P,Sunil N,11,12,0,1,1
+51,777,KKR_MI_51,MI,Naman Dhir,B,,Varun C,11,11,2,0,1
+51,778,KKR_MI_51,MI,Suryakumar Yadav,Ctw,Philip S,Andre R,56,35,6,2,1
+51,779,KKR_MI_51,MI,Tilak Varma,Ct,Sunil N,Varun C,4,6,0,0,1
+51,780,KKR_MI_51,MI,Nehal Wadhera,B,,Sunil N,6,11,1,0,1
+51,781,KKR_MI_51,MI,Hardik Pandya,Ct,Manish P,Andre R,1,3,0,0,1
+51,782,KKR_MI_51,MI,Tim David,Ct,Shreyas I,Mitchell S,24,20,1,1,1
+51,783,KKR_MI_51,MI,Gerald Coetzee,B,,Mitchell S,8,7,0,1,1
+51,784,KKR_MI_51,MI,Piyush Chawla,Ct,Sunil N,Mitchell S,0,1,0,0,1
+51,785,KKR_MI_51,MI,Jasprit Bumrah,,,,1,1,0,0,0
+52,786,GT_RCB_52,GT,Wriddhiman Saha,Ctw,Dinesh K,Mohammed S,1,7,0,0,1
+52,787,GT_RCB_52,GT,Shubman Gill,Ct,Vijaykumar V,Mohammed S,2,7,0,0,1
+52,788,GT_RCB_52,GT,Sai Sudharsan,Ct,Virat K,Cameron G,6,14,0,0,1
+52,789,GT_RCB_52,GT,Shahrukh Khan,Ro,,Virat K,37,24,5,1,1
+52,790,GT_RCB_52,GT,David Miller,Ct,Glenn M,Karn S,30,20,3,2,1
+52,791,GT_RCB_52,GT,Rahul Tewatia,Ct,Vijaykumar V,Yash D,35,21,5,1,1
+52,792,GT_RCB_52,GT,Rashid Khan,B,,Yash D,18,14,2,1,1
+52,793,GT_RCB_52,GT,Vijay Shankar,Ct,Mohammed S,Vijaykumar V,10,7,2,0,1
+52,794,GT_RCB_52,GT,Manav Suthar,Ct,Swapnil S,Vijaykumar V,1,2,0,0,1
+52,795,GT_RCB_52,GT,Mohit Sharma,Ro,Vijaykumar V,Dinesh K,0,1,0,0,1
+52,796,GT_RCB_52,RCB,Virat Kohli,Ctw,Wriddhiman S,Noor A,42,27,2,4,1
+52,797,GT_RCB_52,RCB,Faf Du Plessis,Ct,Shahrukh K,Joshua L,64,23,10,3,1
+52,798,GT_RCB_52,RCB,Will Jacks,Ct,Shahrukh K,Noor A,1,3,0,0,1
+52,799,GT_RCB_52,RCB,Rajat Patidar,Ct,David M,Joshua L,2,3,0,0,1
+52,800,GT_RCB_52,RCB,Glenn Maxwell,Ct,David M,Joshua L,4,3,1,0,1
+52,801,GT_RCB_52,RCB,Cameron Green,Ct,Shahrukh K,Joshua L,1,2,0,0,1
+52,802,GT_RCB_52,RCB,Dinesh Karthik,,,,21,12,3,0,0
+52,803,GT_RCB_52,RCB,Swapnil Singh,,,,15,9,2,1,0
+53,804,CSK_PBKS_53,CSK,Ajinkya Rahane,Ct,Kagiso R,Arshdeep S,9,7,1,0,1
+53,805,CSK_PBKS_53,CSK,Ruturaj Gaikwad,Ctw,Jitesh S,Rahul C,32,21,4,1,1
+53,806,CSK_PBKS_53,CSK,Daryl Mitchell,Lbw,,Harshal P,30,19,2,1,1
+53,807,CSK_PBKS_53,CSK,Shivam Dube,Ctw,Jitesh S,Rahul C,0,1,0,0,1
+53,808,CSK_PBKS_53,CSK,Moeen Ali,Ct,Jonny B,Sam C,17,20,2,0,1
+53,809,CSK_PBKS_53,CSK,Ravindra Jadeja,Ct,Sam C,Arshdeep S,43,26,3,2,1
+53,810,CSK_PBKS_53,CSK,Mitchell Santner,Ct,Sam C,Rahul C,11,11,1,0,1
+53,811,CSK_PBKS_53,CSK,Shardul Thakur,B,,Harshal P,17,11,2,1,1
+53,812,CSK_PBKS_53,CSK,M S Dhoni,B,,Harshal P,0,1,0,0,1
+53,813,CSK_PBKS_53,CSK,Tushar Deshpande,,,,0,1,0,0,0
+53,814,CSK_PBKS_53,CSK,Richard Gleeson,,,,2,2,0,0,0
+53,815,CSK_PBKS_53,PBKS,Prabhsimran Singh,Ct,Substitute,Ravindra J,30,23,2,2,1
+53,816,CSK_PBKS_53,PBKS,Jonny Bairstow,B,,Tushar D,7,6,1,0,1
+53,817,CSK_PBKS_53,PBKS,Rilee Rossouw,B,,Tushar D,0,3,0,0,1
+53,818,CSK_PBKS_53,PBKS,Shashank Singh,Ct,Simarjeet S,Mitchell S,27,20,4,0,1
+53,819,CSK_PBKS_53,PBKS,Sam Curran,Ct,Mitchell S,Ravindra J,7,11,0,0,1
+53,820,CSK_PBKS_53,PBKS,Jitesh Sharma,Ctw,M S D,Simarjeet S,0,1,0,0,1
+53,821,CSK_PBKS_53,PBKS,Ashutosh Sharma,Ct,Simarjeet S,Ravindra J,3,10,0,0,1
+53,822,CSK_PBKS_53,PBKS,Harpreet Brar,,,,17,13,2,0,0
+53,823,CSK_PBKS_53,PBKS,Harshal Patel,Ct,Substitute,Simarjeet S,12,13,1,1,1
+53,824,CSK_PBKS_53,PBKS,Rahul Chahar,B,,Shardul T,16,10,2,1,1
+53,825,CSK_PBKS_53,PBKS,Kagiso Rabada,,,,11,10,0,1,0
+54,826,LSG_KKR_54,KKR,Philip Salt,Ctw,K L R,Naveen U,32,14,5,1,1
+54,827,LSG_KKR_54,KKR,Sunil Narine,Ct,Substitute,Ravi B,81,39,6,7,1
+54,828,LSG_KKR_54,KKR,Angkrish Raghuvanshi,Ctw,K L R,Yudhvir C,32,26,3,1,1
+54,829,LSG_KKR_54,KKR,Andre Russell,Ct,Substitute,Naveen U,12,8,1,1,1
+54,830,LSG_KKR_54,KKR,Rinku Singh,Ct,Marcus S,Naveen U,16,11,2,0,1
+54,831,LSG_KKR_54,KKR,Shreyas Iyer,Ctw,K L R,Yash T,23,15,3,0,1
+54,832,LSG_KKR_54,KKR,Ramandeep Singh,,,,25,6,1,3,0
+54,833,LSG_KKR_54,KKR,Venkatesh Iyer,,,,1,1,0,0,0
+54,834,LSG_KKR_54,LSG,K L Rahul,Ct,Ramandeep S,Harshit R,25,21,3,0,1
+54,835,LSG_KKR_54,LSG,Arshin Kulkarni,Ct,Ramandeep S,Mitchell S,9,7,2,0,1
+54,836,LSG_KKR_54,LSG,Marcus Stoinis,Ct,Harshit R,Andre R,36,21,4,2,1
+54,837,LSG_KKR_54,LSG,Deepak Hooda,Lbw,,Varun C,5,3,1,0,1
+54,838,LSG_KKR_54,LSG,Nicholas Pooran,Ctw,Philip S,Andre R,10,8,0,1,1
+54,839,LSG_KKR_54,LSG,Ayush Badoni,Ct,Mitchell S,Sunil N,15,12,0,1,1
+54,840,LSG_KKR_54,LSG,Ashton Turner,Ct,Varun C,Varun C,16,9,0,2,1
+54,841,LSG_KKR_54,LSG,Krunal Pandya,Ctw,Philip S,Harshit R,5,6,0,0,1
+54,842,LSG_KKR_54,LSG,Yudhvir Charak,Ct,Andre R,Varun C,7,7,0,1,1
+54,843,LSG_KKR_54,LSG,Ravi Bishnoi,Lbw,,Harshit R,2,3,0,0,1
+55,844,MI_SRH_55,SRH,Travis Head,Ct,Tilak V,Piyush C,48,30,7,1,1
+55,845,MI_SRH_55,SRH,Abhishek Sharma,Ctw,Ishan K,Jasprit B,11,16,0,1,1
+55,846,MI_SRH_55,SRH,Mayank Agarwal,B,,Anshul K,5,6,1,0,1
+55,847,MI_SRH_55,SRH,Nitish Reddy,Ct,Anshul K,Hardik P,20,15,2,0,1
+55,848,MI_SRH_55,SRH,Heinrich Klaasen,B,,Piyush C,2,4,0,0,1
+55,849,MI_SRH_55,SRH,Marco Jansen,B,,Hardik P,17,12,1,1,1
+55,850,MI_SRH_55,SRH,Shahbaz Ahmed,Ct,Suryakumar Y,Hardik P,10,12,0,0,1
+55,851,MI_SRH_55,SRH,Abdul Samad,Lbw,,Piyush C,3,4,0,0,1
+55,852,MI_SRH_55,SRH,Pat Cummins,,,,35,17,2,2,0
+55,853,MI_SRH_55,SRH,Sanvir Singh,,,,8,7,0,0,0
+55,854,MI_SRH_55,MI,Ishan Kishan,Ct,Mayank A,Marco J,9,7,2,0,1
+55,855,MI_SRH_55,MI,Rohit Sharma,Ctw,Heinrich K,Pat C,4,5,1,0,1
+55,856,MI_SRH_55,MI,Naman Dhir,Ct,Marco J,Bhuvneshwar K,0,9,0,0,1
+55,857,MI_SRH_55,MI,Suryakumar Yadav,,,,102,51,12,6,0
+55,858,MI_SRH_55,MI,Tilak Varma,,,,37,32,6,0,0
+56,859,DC_RR_56,DC,Jake Fraser-Mcgurk,Ct,Donovan F,Ravichandran A,50,20,7,3,1
+56,860,DC_RR_56,DC,Abishek Porel,Ct,Sandeep S,Ravichandran A,65,36,7,3,1
+56,861,DC_RR_56,DC,Shai Hope,Ro,,Sandeep S,1,1,0,0,1
+56,862,DC_RR_56,DC,Axar Patel,Ct,Riyan P,Ravichandran A,15,10,1,1,1
+56,863,DC_RR_56,DC,Rishabh Pant,Ct,Trent B,Yuzvendra C,15,13,0,1,1
+56,864,DC_RR_56,DC,Tristan Stubbs,Lbw,,Sandeep S,41,20,3,3,1
+56,865,DC_RR_56,DC,Gulbadin Naib,Ct,Ravichandran A,Trent B,19,15,1,1,1
+56,866,DC_RR_56,DC,Rasikh Dar,Ro,Sanju S,Shubham D,9,3,2,0,1
+56,867,DC_RR_56,DC,Kuldeep Yadav,,,,5,2,1,0,0
+56,868,DC_RR_56,RR,Yashasvi Jaiswal,Ct,Axar P,Khaleel A,4,2,1,0,1
+56,869,DC_RR_56,RR,Jos Buttler,B,,Axar P,19,17,2,1,1
+56,870,DC_RR_56,RR,Sanju Samson,Ct,Shai H,Mukesh K,86,46,8,6,1
+56,871,DC_RR_56,RR,Riyan Parag,B,,Rasikh D,27,22,1,3,1
+56,872,DC_RR_56,RR,Shubham Dubey,Ct,Tristan S,Khaleel A,25,12,2,2,1
+56,873,DC_RR_56,RR,Rovman Powell,B,,Mukesh K,13,10,1,1,1
+56,874,DC_RR_56,RR,Donovan Ferreira,Lbw,,Kuldeep Y,1,3,0,0,1
+56,875,DC_RR_56,RR,Ravichandran Ashwin,Ct,Shai H,Kuldeep Y,2,3,0,0,1
+56,876,DC_RR_56,RR,Trent Boult,,,,2,3,0,0,0
+56,877,DC_RR_56,RR,Avesh Khan,,,,7,3,1,0,0
+57,878,LSG_SRH_57,LSG,K L Rahul,Ct,T N,Pat C,29,33,1,1,1
+57,879,LSG_SRH_57,LSG,Quinton De Kock,Ct,Nitish R,Bhuvneshwar K,2,5,0,0,1
+57,880,LSG_SRH_57,LSG,Marcus Stoinis,Ct,Sanvir S,Bhuvneshwar K,3,5,0,0,1
+57,881,LSG_SRH_57,LSG,Krunal Pandya,Ro,,Pat C,24,21,0,2,1
+57,882,LSG_SRH_57,LSG,Nicholas Pooran,,,,48,26,6,1,0
+57,883,LSG_SRH_57,LSG,Ayush Badoni,,,,55,30,9,0,0
+57,884,LSG_SRH_57,SRH,Abhishek Sharma,,,,75,28,8,6,0
+57,885,LSG_SRH_57,SRH,Travis Head,,,,89,30,8,8,0
+58,886,PBKS_RCB_58,RCB,Virat Kohli,Ct,Rilee R,Arshdeep S,92,47,7,6,1
+58,887,PBKS_RCB_58,RCB,Faf Du Plessis,Ct,Shashank S,Vidhwath K,9,7,2,0,1
+58,888,PBKS_RCB_58,RCB,Will Jacks,Ct,Harshal P,Vidhwath K,12,7,1,1,1
+58,889,PBKS_RCB_58,RCB,Rajat Patidar,Ctw,Jonny B,Sam C,55,23,3,6,1
+58,890,PBKS_RCB_58,RCB,Cameron Green,Ct,Sam C,Harshal P,46,27,5,1,1
+58,891,PBKS_RCB_58,RCB,Dinesh Karthik,Ct,Sam C,Harshal P,18,7,1,2,1
+58,892,PBKS_RCB_58,RCB,Mahipal Lomror,B,,Harshal P,0,2,0,0,1
+58,893,PBKS_RCB_58,RCB,Swapnil Singh,,,,1,1,0,0,0
+58,894,PBKS_RCB_58,PBKS,Prabhsimran Singh,Lbw,,Swapnil S,6,4,1,0,1
+58,895,PBKS_RCB_58,PBKS,Jonny Bairstow,Ct,Faf D,Lockie F,27,16,4,1,1
+58,896,PBKS_RCB_58,PBKS,Rilee Rossouw,Ct,Will J,Karn S,61,27,9,3,1
+58,897,PBKS_RCB_58,PBKS,Shashank Singh,Ro,,Virat K,37,19,4,2,1
+58,898,PBKS_RCB_58,PBKS,Jitesh Sharma,B,,Karn S,5,4,1,0,1
+58,899,PBKS_RCB_58,PBKS,Liam Livingstone,Ct,Karn S,Swapnil S,0,2,0,0,1
+58,900,PBKS_RCB_58,PBKS,Sam Curran,B,,Lockie F,22,16,2,0,1
+58,901,PBKS_RCB_58,PBKS,Ashutosh Sharma,Lbw,,Mohammed S,8,5,0,1,1
+58,902,PBKS_RCB_58,PBKS,Harshal Patel,Ct,Lockie F,Mohammed S,0,1,0,0,1
+58,903,PBKS_RCB_58,PBKS,Rahul Chahar,,,,5,5,1,0,0
+58,904,PBKS_RCB_58,PBKS,Arshdeep Singh,Ct,Karn S,Mohammed S,4,3,1,0,1
+59,905,CSK_GT_59,GT,Sai Sudharsan,Ct,Shivam D,Tushar D,103,51,5,7,1
+59,906,CSK_GT_59,GT,Shubman Gill,Ct,Ravindra J,Tushar D,104,55,9,6,1
+59,907,CSK_GT_59,GT,David Miller,,,,16,11,1,0,0
+59,908,CSK_GT_59,GT,Shahrukh Khan,Ro,Simarjeet S,Rachin R,2,3,0,0,1
+59,909,CSK_GT_59,CSK,Ajinkya Rahane,Ct,Rahul T,Sandeep W,1,5,0,0,1
+59,910,CSK_GT_59,CSK,Rachin Ravindra,Ro,,David M,1,2,0,0,1
+59,911,CSK_GT_59,CSK,Ruturaj Gaikwad,Ct,Rashid K,Umesh Y,0,3,0,0,1
+59,912,CSK_GT_59,CSK,Daryl Mitchell,Ct,Shahrukh K,Mohit S,63,34,7,3,1
+59,913,CSK_GT_59,CSK,Moeen Ali,Ct,Noor A,Mohit S,56,36,4,4,1
+59,914,CSK_GT_59,CSK,Shivam Dube,Ct,Noor A,Mohit S,21,13,2,1,1
+59,915,CSK_GT_59,CSK,Ravindra Jadeja,Ct,David M,Rashid K,18,10,2,1,1
+59,916,CSK_GT_59,CSK,M S Dhoni,,,,26,11,1,3,0
+59,917,CSK_GT_59,CSK,Mitchell Santner,B,,Rashid K,0,2,0,0,1
+59,918,CSK_GT_59,CSK,Shardul Thakur,,,,3,4,0,0,0
+60,919,KKR_MI_60,KKR,Philip Salt,Ct,Anshul K,Nuwan T,6,5,0,1,1
+60,920,KKR_MI_60,KKR,Sunil Narine,B,,Jasprit B,0,1,0,0,1
+60,921,KKR_MI_60,KKR,Venkatesh Iyer,Ct,Suryakumar Y,Piyush C,42,21,6,2,1
+60,922,KKR_MI_60,KKR,Shreyas Iyer,B,,Anshul K,7,10,1,0,1
+60,923,KKR_MI_60,KKR,Nitish Rana,Ro,Tilak V,,33,23,4,1,1
+60,924,KKR_MI_60,KKR,Andre Russell,Ct,Anshul K,Piyush C,24,14,2,2,1
+60,925,KKR_MI_60,KKR,Rinku Singh,Ctw,Ishan K,Jasprit B,20,12,0,2,1
+60,926,KKR_MI_60,KKR,Ramandeep Singh,,,,17,8,1,1,0
+60,927,KKR_MI_60,KKR,Mitchell Starc,,,,2,2,0,0,0
+60,928,KKR_MI_60,MI,Ishan Kishan,Ct,Rinku S,Sunil N,40,22,5,2,1
+60,929,KKR_MI_60,MI,Rohit Sharma,Ct,Sunil N,Varun C,19,24,1,1,1
+60,930,KKR_MI_60,MI,Suryakumar Yadav,Ct,Ramandeep S,Andre R,11,14,1,0,1
+60,931,KKR_MI_60,MI,Tilak Varma,Ctw,Philip S,Harshit R,32,17,5,1,1
+60,932,KKR_MI_60,MI,Hardik Pandya,Ct,Vaibhav A,Varun C,2,4,0,0,1
+60,933,KKR_MI_60,MI,Tim David,Ct,Shreyas I,Andre R,0,3,0,0,1
+60,934,KKR_MI_60,MI,Nehal Wadhera,Ro,Mitchell S,Philip S,3,3,0,0,1
+60,935,KKR_MI_60,MI,Naman Dhir,Ct,Rinku S,Harshit R,17,6,1,2,1
+60,936,KKR_MI_60,MI,Anshul Kamboj,,,,2,2,0,0,0
+60,937,KKR_MI_60,MI,Piyush Chawla,,,,1,2,0,0,0
+61,938,CSK_RR_61,RR,Yashasvi Jaiswal,Ct,Ruturaj G,Simarjeet S,24,21,3,1,1
+61,939,CSK_RR_61,RR,Jos Buttler,Ct,Tushar D,Simarjeet S,21,25,2,0,1
+61,940,CSK_RR_61,RR,Sanju Samson,Ct,Ruturaj G,Simarjeet S,15,19,0,0,1
+61,941,CSK_RR_61,RR,Riyan Parag,,,,47,35,1,3,0
+61,942,CSK_RR_61,RR,Dhruv Jurel,Ct,Shardul T,Tushar D,28,18,1,2,1
+61,943,CSK_RR_61,RR,Shubham Dubey,Ct,Shivam D,Tushar D,0,1,0,0,1
+61,944,CSK_RR_61,RR,Ravichandran Ashwin,,,,1,1,0,0,0
+61,945,CSK_RR_61,CSK,Rachin Ravindra,Ct,Ravichandran A,Ravichandran A,27,18,1,2,1
+61,946,CSK_RR_61,CSK,Ruturaj Gaikwad,,,,42,41,1,2,0
+61,947,CSK_RR_61,CSK,Daryl Mitchell,Lbw,,Yuzvendra C,22,13,4,0,1
+61,948,CSK_RR_61,CSK,Moeen Ali,Ct,Avesh K,Nandre B,10,13,0,0,1
+61,949,CSK_RR_61,CSK,Shivam Dube,Ct,Riyan P,Ravichandran A,18,11,2,1,1
+61,950,CSK_RR_61,CSK,Ravindra Jadeja,Obf,,Avesh K,5,6,0,0,1
+61,951,CSK_RR_61,CSK,Sameer Rizvi,,,,15,8,3,0,0
+62,952,DC_RCB_62,RCB,Virat Kohli,Ctw,Abishek P,Ishant S,27,13,1,3,1
+62,953,DC_RCB_62,RCB,Faf Du Plessis,Ct,Jake F,Mukesh K,6,7,1,0,1
+62,954,DC_RCB_62,RCB,Will Jacks,Ct,Axar P,Kuldeep Y,41,29,3,2,1
+62,955,DC_RCB_62,RCB,Rajat Patidar,Ct,Axar P,Rasikh D,52,32,3,3,1
+62,956,DC_RCB_62,RCB,Cameron Green,,,,32,24,1,2,0
+62,957,DC_RCB_62,RCB,Mahipal Lomror,Ctw,Abishek P,Khaleel A,13,8,0,1,1
+62,958,DC_RCB_62,RCB,Dinesh Karthik,Ct,Kuldeep Y,Khaleel A,0,2,0,0,1
+62,959,DC_RCB_62,RCB,Swapnil Singh,Ct,Kumar K,Rasikh D,0,1,0,0,1
+62,960,DC_RCB_62,RCB,Karn Sharma,Ro,Shai H,Mukesh K,6,4,1,0,1
+62,961,DC_RCB_62,DC,David Warner,Ct,Will J,Swapnil S,1,2,0,0,1
+62,962,DC_RCB_62,DC,Jake Fraser-Mcgurk,Ro,Yash D,,21,8,2,2,1
+62,963,DC_RCB_62,DC,Abishek Porel,Ct,Lockie F,Yash D,2,3,0,0,1
+62,964,DC_RCB_62,DC,Shai Hope,Ct,Karn S,Lockie F,29,23,4,0,1
+62,965,DC_RCB_62,DC,Kumar Kushagra,Lbw,,Mohammed S,2,3,0,0,1
+62,966,DC_RCB_62,DC,Axar Patel,Ct,Faf D,Yash D,57,39,5,3,1
+62,967,DC_RCB_62,DC,Tristan Stubbs,Ro,Cameron G,,3,4,0,0,1
+62,968,DC_RCB_62,DC,Rasikh Dar,Ct,Will J,Cameron G,10,12,1,0,1
+62,969,DC_RCB_62,DC,Kuldeep Yadav,B,,Yash D,6,10,0,0,1
+62,970,DC_RCB_62,DC,Mukesh Kumar,Ct,Mahipal L,Lockie F,3,7,0,0,1
+62,971,DC_RCB_62,DC,Ishant Sharma,,,,0,4,0,0,0
+64,972,DC_LSG_64,DC,Jake Fraser-Mcgurk,Ct,Naveen U,Arshad K,0,2,0,0,1
+64,973,DC_LSG_64,DC,Abishek Porel,Ct,Nicholas P,Naveen U,58,33,5,4,1
+64,974,DC_LSG_64,DC,Shai Hope,Ct,K L R,Ravi B,38,27,3,2,1
+64,975,DC_LSG_64,DC,Rishabh Pant,Ct,Deepak H,Naveen U,33,23,5,0,1
+64,976,DC_LSG_64,DC,Tristan Stubbs,,,,57,25,3,4,0
+64,977,DC_LSG_64,DC,Axar Patel,,,,14,10,2,0,0
+64,978,DC_LSG_64,LSG,Quinton De Kock,Ct,Mukesh K,Ishant S,12,8,2,0,1
+64,979,DC_LSG_64,LSG,K L Rahul,Ct,Mukesh K,Ishant S,5,3,1,0,1
+64,980,DC_LSG_64,LSG,Marcus Stoinis,St,Rishabh P,Axar P,5,7,1,0,1
+64,981,DC_LSG_64,LSG,Deepak Hooda,Lbw,,Ishant S,0,2,0,0,1
+64,982,DC_LSG_64,LSG,Nicholas Pooran,Ct,Axar P,Mukesh K,61,27,6,4,1
+64,983,DC_LSG_64,LSG,Ayush Badoni,Ct,Gulbadin N,Tristan S,6,9,0,0,1
+64,984,DC_LSG_64,LSG,Krunal Pandya,St,Rishabh P,Kuldeep Y,18,18,2,0,1
+64,985,DC_LSG_64,LSG,Arshad Khan,,,,58,33,3,5,0
+64,986,DC_LSG_64,LSG,Yudhvir Charak,Ct,Shai H,Khaleel A,14,7,1,1,1
+64,987,DC_LSG_64,LSG,Ravi Bishnoi,Ro,,Jake F,2,2,0,0,1
+64,988,DC_LSG_64,LSG,Naveen Ul-Haq,,,,2,4,0,0,0
+65,989,PBKS_RR_65,RR,Yashasvi Jaiswal,B,,Sam C,4,4,1,0,1
+65,990,PBKS_RR_65,RR,Tom Kohler-Cadmore,Ct,Jitesh S,Rahul C,18,23,2,1,1
+65,991,PBKS_RR_65,RR,Sanju Samson,Ct,Rahul C,Nathan E,18,15,3,0,1
+65,992,PBKS_RR_65,RR,Riyan Parag,Lbw,,Harshal P,48,34,6,0,1
+65,993,PBKS_RR_65,RR,Ravichandran Ashwin,Ct,Shashank S,Arshdeep S,28,19,3,1,1
+65,994,PBKS_RR_65,RR,Dhruv Jurel,Ct,Harpreet B,Sam C,0,1,0,0,1
+65,995,PBKS_RR_65,RR,Rovman Powell,Ct,Rahul C,Rahul C,4,5,1,0,1
+65,996,PBKS_RR_65,RR,Donovan Ferreira,Ct,Rilee R,Harshal P,7,8,0,0,1
+65,997,PBKS_RR_65,RR,Trent Boult,Ro,Jonny B,Shashank S,12,9,2,0,1
+65,998,PBKS_RR_65,RR,Avesh Khan,,,,3,2,0,0,0
+65,999,PBKS_RR_65,PBKS,Prabhsimran Singh,Ct,Yuzvendra C,Trent B,6,4,1,0,1
+65,1000,PBKS_RR_65,PBKS,Jonny Bairstow,Ct,Riyan P,Yuzvendra C,14,22,1,0,1
+65,1001,PBKS_RR_65,PBKS,Rilee Rossouw,Ct,Yashasvi J,Avesh K,22,13,5,0,1
+65,1002,PBKS_RR_65,PBKS,Shashank Singh,Lbw,,Avesh K,0,2,0,0,1
+65,1003,PBKS_RR_65,PBKS,Sam Curran,,,,63,41,5,3,0
+65,1004,PBKS_RR_65,PBKS,Jitesh Sharma,Ct,Riyan P,Yuzvendra C,22,20,0,2,1
+65,1005,PBKS_RR_65,PBKS,Ashutosh Sharma,,,,17,11,1,1,0
+67,1006,LSG_MI_67,LSG,K L Rahul,Ct,Nuwan T,Piyush C,55,41,3,3,1
+67,1007,LSG_MI_67,LSG,Devdutt Padikkal,Lbw,,Nuwan T,0,1,0,0,1
+67,1008,LSG_MI_67,LSG,Marcus Stoinis,Lbw,,Piyush C,28,22,5,0,1
+67,1009,LSG_MI_67,LSG,Deepak Hooda,Ct,Nehal W,Piyush C,11,9,1,0,1
+67,1010,LSG_MI_67,LSG,Nicholas Pooran,Ct,Suryakumar Y,Nuwan T,75,29,5,8,1
+67,1011,LSG_MI_67,LSG,Arshad Khan,Ct,Nehal W,Nuwan T,0,1,0,0,1
+67,1012,LSG_MI_67,LSG,Ayush Badoni,,,,22,10,1,2,0
+67,1013,LSG_MI_67,LSG,Krunal Pandya,,,,12,7,1,1,0
+67,1014,LSG_MI_67,MI,Rohit Sharma,Ct,Mohsin K,Ravi B,68,38,10,3,1
+67,1015,LSG_MI_67,MI,Dewald Brevis,Ct,Krunal P,Naveen U,23,20,1,2,1
+67,1016,LSG_MI_67,MI,Suryakumar Yadav,Ct,Ravi B,Krunal P,0,3,0,0,1
+67,1017,LSG_MI_67,MI,Ishan Kishan,B,,Naveen U,14,15,1,0,1
+67,1018,LSG_MI_67,MI,Hardik Pandya,Ct,Naveen U,Mohsin K,16,13,1,1,1
+67,1019,LSG_MI_67,MI,Nehal Wadhera,Ct,Krunal P,Ravi B,1,3,0,0,1
+67,1020,LSG_MI_67,MI,Naman Dhir,,,,62,28,4,5,0
+67,1021,LSG_MI_67,MI,Romario Shepherd,,,,1,1,0,0,0
+68,1022,CSK_RCB_68,RCB,Virat Kohli,Ct,Daryl M,Mitchell S,47,29,3,4,1
+68,1023,CSK_RCB_68,RCB,Faf Du Plessis,Ro,,Mitchell S,54,39,3,3,1
+68,1024,CSK_RCB_68,RCB,Rajat Patidar,Ct,Daryl M,Shardul T,41,23,2,4,1
+68,1025,CSK_RCB_68,RCB,Cameron Green,,,,38,17,3,3,0
+68,1026,CSK_RCB_68,RCB,Dinesh Karthik,Ctw,M S D,Tushar D,14,6,1,1,1
+68,1027,CSK_RCB_68,RCB,Glenn Maxwell,Ctw,M S D,Shardul T,16,5,2,1,1
+68,1028,CSK_RCB_68,RCB,Mahipal Lomror,,,,0,1,0,0,0
+68,1029,CSK_RCB_68,CSK,Ruturaj Gaikwad,Ct,Yash D,Glenn M,0,1,0,0,1
+68,1030,CSK_RCB_68,CSK,Rachin Ravindra,Ro,Dinesh K,Swapnil S,61,37,5,3,1
+68,1031,CSK_RCB_68,CSK,Daryl Mitchell,Ct,Virat K,Yash D,4,6,0,0,1
+68,1032,CSK_RCB_68,CSK,Ajinkya Rahane,Ct,Faf D,Lockie F,33,22,3,1,1
+68,1033,CSK_RCB_68,CSK,Shivam Dube,Ct,Lockie F,Cameron G,7,15,0,0,1
+68,1034,CSK_RCB_68,CSK,Ravindra Jadeja,,,,42,22,3,3,0
+68,1035,CSK_RCB_68,CSK,Mitchell Santner,Ct,Faf D,Mohammed S,3,4,0,0,1
+68,1036,CSK_RCB_68,CSK,M S Dhoni,Ct,Swapnil S,Yash D,25,13,3,1,1
+68,1037,CSK_RCB_68,CSK,Shardul Thakur,,,,1,2,0,0,0
+69,1038,PBKS_SRH_69,PBKS,Atharva Taide,Ct,Sanvir S,T N,46,27,5,2,1
+69,1039,PBKS_SRH_69,PBKS,Prabhsimran Singh,Ctw,Heinrich K,Vijayakanth V,71,45,7,4,1
+69,1040,PBKS_SRH_69,PBKS,Rilee Rossouw,Ct,Abdul S,Pat C,49,24,3,4,1
+69,1041,PBKS_SRH_69,PBKS,Shashank Singh,Ro,Heinrich K,Nitish R,2,4,0,0,1
+69,1042,PBKS_SRH_69,PBKS,Jitesh Sharma,,,,32,15,2,2,0
+69,1043,PBKS_SRH_69,PBKS,Ashutosh Sharma,Ct,Sanvir S,T N,2,3,0,0,1
+69,1044,PBKS_SRH_69,PBKS,Shivam Singh,,,,2,3,0,0,0
+69,1045,PBKS_SRH_69,SRH,Travis Head,B,,Arshdeep S,0,1,0,0,1
+69,1046,PBKS_SRH_69,SRH,Abhishek Sharma,Ct,Shivam S,Shashank S,66,28,5,6,1
+69,1047,PBKS_SRH_69,SRH,Rahul Tripathi,Ct,Arshdeep S,Harshal P,33,18,4,2,1
+69,1048,PBKS_SRH_69,SRH,Nitish Reddy,Ct,Shivam S,Harshal P,37,25,1,3,1
+69,1049,PBKS_SRH_69,SRH,Heinrich Klaasen,B,,Harpreet B,42,26,3,2,1
+69,1050,PBKS_SRH_69,SRH,Shahbaz Ahmed,Ct,Shashank S,Arshdeep S,3,6,0,0,1
+69,1051,PBKS_SRH_69,SRH,Abdul Samad,,,,11,8,0,1,0
+69,1052,PBKS_SRH_69,SRH,Sanvir Singh,,,,6,4,1,0,0
+71,1053,KKR_SRH_71,SRH,Travis Head,B,,Mitchell S,0,2,0,0,1
+71,1054,KKR_SRH_71,SRH,Abhishek Sharma,Ct,Andre R,Vaibhav A,3,4,0,0,1
+71,1055,KKR_SRH_71,SRH,Rahul Tripathi,Ro,Rahmanullah G,Andre R,55,35,7,1,1
+71,1056,KKR_SRH_71,SRH,Nitish Reddy,Ctw,Rahmanullah G,Mitchell S,9,10,1,0,1
+71,1057,KKR_SRH_71,SRH,Shahbaz Ahmed,B,,Mitchell S,0,1,0,0,1
+71,1058,KKR_SRH_71,SRH,Heinrich Klaasen,Ct,Rinku S,Varun C,32,21,3,1,1
+71,1059,KKR_SRH_71,SRH,Abdul Samad,Ct,Shreyas I,Harshit R,16,12,0,2,1
+71,1060,KKR_SRH_71,SRH,Sanvir Singh,B,,Sunil N,0,1,0,0,1
+71,1061,KKR_SRH_71,SRH,Pat Cummins,Ctw,Rahmanullah G,Andre R,30,24,2,2,1
+71,1062,KKR_SRH_71,SRH,Bhuvneshwar Kumar,Lbw,,Varun C,0,4,0,0,1
+71,1063,KKR_SRH_71,SRH,Vijayakanth Viyaskanth,,,,7,5,0,0,0
+71,1064,KKR_SRH_71,KKR,Rahmanullah Gurbaz,Ct,Vijayakanth V,T N,23,14,2,2,1
+71,1065,KKR_SRH_71,KKR,Sunil Narine,Ct,Vijayakanth V,Pat C,21,16,4,0,1
+71,1066,KKR_SRH_71,KKR,Venkatesh Iyer,,,,51,28,5,4,0
+71,1067,KKR_SRH_71,KKR,Shreyas Iyer,,,,58,24,5,4,0
+72,1068,RCB_RR_72,RCB,Virat Kohli,Ct,Substitute,Yuzvendra C,33,24,3,1,1
+72,1069,RCB_RR_72,RCB,Faf Du Plessis,Ct,Rovman P,Trent B,17,14,2,1,1
+72,1070,RCB_RR_72,RCB,Cameron Green,Ct,Rovman P,Ravichandran A,27,21,2,1,1
+72,1071,RCB_RR_72,RCB,Rajat Patidar,Ct,Riyan P,Avesh K,34,22,2,2,1
+72,1072,RCB_RR_72,RCB,Glenn Maxwell,Ct,Dhruv J,Ravichandran A,0,1,0,0,1
+72,1073,RCB_RR_72,RCB,Mahipal Lomror,Ct,Rovman P,Avesh K,32,17,2,2,1
+72,1074,RCB_RR_72,RCB,Dinesh Karthik,Ct,Yashasvi J,Avesh K,11,13,1,0,1
+72,1075,RCB_RR_72,RCB,Swapnil Singh,,,,9,4,0,1,0
+72,1076,RCB_RR_72,RCB,Karn Sharma,Ct,Rovman P,Sandeep S,5,4,1,0,1
+72,1077,RCB_RR_72,RR,Yashasvi Jaiswal,Ct,Dinesh K,Cameron G,45,30,8,0,1
+72,1078,RCB_RR_72,RR,Tom Kohler-Cadmore,B,,Lockie F,20,15,4,0,1
+72,1079,RCB_RR_72,RR,Sanju Samson,St,Dinesh K,Karn S,17,13,0,1,1
+72,1080,RCB_RR_72,RR,Riyan Parag,B,,Mohammed S,36,26,2,2,1
+72,1081,RCB_RR_72,RR,Dhruv Jurel,Ro,Cameron G,Virat K,8,8,1,0,1
+72,1082,RCB_RR_72,RR,Shimron Hetmyer,Ct,Faf D,Mohammed S,26,14,3,1,1
+72,1083,RCB_RR_72,RR,Rovman Powell,,,,16,8,2,1,0
+73,1084,RR_SRH_73,SRH,Travis Head,Ct,Ravichandran A,Sandeep S,34,28,3,1,1
+73,1085,RR_SRH_73,SRH,Abhishek Sharma,Ct,Tom K,Trent B,12,5,1,1,1
+73,1086,RR_SRH_73,SRH,Rahul Tripathi,Ct,Yuzvendra C,Trent B,37,15,5,2,1
+73,1087,RR_SRH_73,SRH,Aiden Markram,Ct,Yuzvendra C,Trent B,1,2,0,0,1
+73,1088,RR_SRH_73,SRH,Heinrich Klaasen,B,,Sandeep S,50,34,0,4,1
+73,1089,RR_SRH_73,SRH,Nitish Reddy,Ct,Yuzvendra C,Avesh K,5,10,0,0,1
+73,1090,RR_SRH_73,SRH,Abdul Samad,B,,Avesh K,0,1,0,0,1
+73,1091,RR_SRH_73,SRH,Shahbaz Ahmed,Ct,Dhruv J,Avesh K,18,18,0,1,1
+73,1092,RR_SRH_73,SRH,Pat Cummins,,,,5,5,1,0,0
+73,1093,RR_SRH_73,SRH,Jaydev Unadkat,Ro,Avesh K,Sanju S,5,2,1,0,1
+73,1094,RR_SRH_73,RR,Yashasvi Jaiswal,Ct,Abdul S,Shahbaz A,42,21,4,3,1
+73,1095,RR_SRH_73,RR,Tom Kohler-Cadmore,Ct,Rahul T,Pat C,10,16,1,0,1
+73,1096,RR_SRH_73,RR,Sanju Samson,Ct,Aiden M,Abhishek S,10,11,1,0,1
+73,1097,RR_SRH_73,RR,Riyan Parag,Ct,Abhishek S,Shahbaz A,6,10,0,0,1
+73,1098,RR_SRH_73,RR,Dhruv Jurel,,,,56,35,7,2,0
+73,1099,RR_SRH_73,RR,Ravichandran Ashwin,Ctw,Heinrich K,Shahbaz A,0,3,0,0,1
+73,1100,RR_SRH_73,RR,Shimron Hetmyer,B,,Abhishek S,4,10,0,0,1
+73,1101,RR_SRH_73,RR,Rovman Powell,Ct,Abhishek S,T N,6,12,0,0,1
+73,1102,RR_SRH_73,RR,Trent Boult,,,,0,3,0,0,0
+74,1103,KKR_SRH_74,SRH,"	Abhishek Sharma",b,,Mitchell S,2,5,0,0,1
+74,1104,KKR_SRH_74,SRH,Travis Head,ctw,Rahmanullah G,Vaibhav A,0,1,0,0,1
+74,1105,KKR_SRH_74,SRH,Rahul Tripathi,ct,Ramandeep S,Mitchell S,9,13,1,0,1
+74,1106,KKR_SRH_74,SRH,Aiden Markram,ct,Mitchell S,Andre R,20,23,3,0,1
+74,1107,KKR_SRH_74,SRH,Nitish Reddy,ctw,Rahmanullah G,Harshit R,13,10,1,1,1
+74,1108,KKR_SRH_74,SRH,Heinrich Klaasen,b,,Harshit R,16,17,1,0,1
+74,1109,KKR_SRH_74,SRH,Shahbaz Ahmed,ct,Sunil N,Varun C,8,7,0,1,1
+74,1110,KKR_SRH_74,SRH,Abdul Samad,ctw,Rahmanullah G,Andre R,4,4,0,0,1
+74,1111,KKR_SRH_74,SRH,Pat Cummins,ct,Mitchell S,Andre R,24,19,2,1,1
+74,1112,KKR_SRH_74,SRH,Jaydev Unadkat,lbw,,Sunil N,4,11,0,0,1
+74,1113,KKR_SRH_74,SRH,Bhuvneshwar Kumar,,,,0,1,0,0,0
+74,1114,KKR_SRH_74,KKR,"	Rahmanullah Gurbaz",lbw,,Shahbaz A,39,32,5,2,1
+74,1115,KKR_SRH_74,KKR,Sunil Narine,ct,Shahbaz A,Pat C,6,2,0,1,1
+74,1116,KKR_SRH_74,KKR,Venkatesh Iyer,,,,52,26,4,3,0
+74,1117,KKR_SRH_74,KKR,Shreyas Iyer,,,,6,3,1,0,0
